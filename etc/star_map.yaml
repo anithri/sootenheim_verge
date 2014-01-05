@@ -1,0 +1,4042 @@
+--- !ruby/object:Astro::Map
+stars:
+- &1 !ruby/object:Astro::Star
+  name: Alino IV
+  star_type: F
+  initial: true
+- &2 !ruby/object:Astro::Star
+  name: Bonga Ishon
+  star_type: F
+  initial: true
+- &3 !ruby/object:Astro::Star
+  name: Cerkaltop
+  star_type: K
+  initial: true
+- &4 !ruby/object:Astro::Star
+  name: Danfed
+  star_type: K
+  initial: true
+- &5 !ruby/object:Astro::Star
+  name: Gan-Tis
+  star_type: M
+  initial: true
+- &6 !ruby/object:Astro::Star
+  name: Kurith
+  star_type: K
+  initial: true
+- &7 !ruby/object:Astro::Star
+  name: Metdan
+  star_type: F
+  initial: true
+- &8 !ruby/object:Astro::Star
+  name: Nabhan
+  star_type: G
+  initial: true
+- &9 !ruby/object:Astro::Star
+  name: Omzun
+  star_type: B
+  initial: true
+- &10 !ruby/object:Astro::Star
+  name: Phinjum'Com
+  star_type: F
+  initial: true
+- &11 !ruby/object:Astro::Star
+  name: Quelyn VII
+  star_type: F
+  initial: true
+- &12 !ruby/object:Astro::Star
+  name: Topar
+  star_type: G
+  initial: true
+- &13 !ruby/object:Astro::Star
+  name: Watdan VII
+  star_type: O
+  initial: true
+- &14 !ruby/object:Astro::Star
+  name: Zela III
+  star_type: B
+  initial: true
+- &15 !ruby/object:Astro::Star
+  name: Hilmet V
+  star_type: B
+  initial: true
+- &16 !ruby/object:Astro::Star
+  name: Lan-Kar XI
+  star_type: M
+  initial: true
+- &17 !ruby/object:Astro::Star
+  name: Varhan
+  star_type: K
+  initial: true
+- &18 !ruby/object:Astro::Star
+  name: Isal
+  star_type: K
+  initial: true
+- &19 !ruby/object:Astro::Star
+  name: Rishdar II
+  star_type: K
+  initial: true
+- &20 !ruby/object:Astro::Star
+  name: Seni Cerlia
+  star_type: F
+  initial: true
+- &21 !ruby/object:Astro::Star
+  name: Umnal X
+  star_type: G
+  initial: true
+- &22 !ruby/object:Astro::Star
+  name: Endar
+  star_type: A
+  initial: true
+- &23 !ruby/object:Astro::Star
+  name: Jumdagoth
+  star_type: B
+  initial: true
+- &24 !ruby/object:Astro::Star
+  name: Firbak
+  star_type: K
+  initial: true
+- &25 !ruby/object:Astro::Star
+  name: Yinbin X
+  star_type: F
+  initial: true
+filename: ./etc/star_map.yaml
+by_letter:
+  a:
+  - &26 !ruby/object:Astro::Star
+    name: Arb-Bil Crondar
+    star_type: F
+  - &27 !ruby/object:Astro::Star
+    name: Arcia XIV
+    star_type: M
+  - &28 !ruby/object:Astro::Star
+    name: Antjakkes Ganzun
+    star_type: G
+  - &29 !ruby/object:Astro::Star
+    name: Arbbil VII
+    star_type: F
+  - &30 !ruby/object:Astro::Star
+    name: Arcend
+    star_type: O
+  - &31 !ruby/object:Astro::Star
+    name: Antbel XIV
+    star_type: K
+  - &32 !ruby/object:Astro::Star
+    name: Ak Darrif
+    star_type: B
+  - &33 !ruby/object:Astro::Star
+    name: Anerron
+    star_type: B
+  - &34 !ruby/object:Astro::Star
+    name: Arbfir XIV
+    star_type: B
+  - &35 !ruby/object:Astro::Star
+    name: Almtros Gamron
+    star_type: G
+  - &36 !ruby/object:Astro::Star
+    name: a'Dur XIII
+    star_type: G
+  - &37 !ruby/object:Astro::Star
+    name: Arbnag
+    star_type: B
+  - &38 !ruby/object:Astro::Star
+    name: Arcvar XIV
+    star_type: K
+  - &39 !ruby/object:Astro::Star
+    name: Arcnat
+    star_type: G
+  - &40 !ruby/object:Astro::Star
+    name: Arban
+    star_type: M
+  - &41 !ruby/object:Astro::Star
+    name: Ak Endrif
+    star_type: G
+  - &42 !ruby/object:Astro::Star
+    name: Arbu VI
+    star_type: M
+  - &43 !ruby/object:Astro::Star
+    name: Ak Yinnag
+    star_type: B
+  - &44 !ruby/object:Astro::Star
+    name: Ak VII
+    star_type: A
+  - &45 !ruby/object:Astro::Star
+    name: Alis
+    star_type: K
+  - &46 !ruby/object:Astro::Star
+    name: Antrisnikseltan
+    star_type: K
+  - &47 !ruby/object:Astro::Star
+    name: Arceer Lorsen
+    star_type: K
+  - &48 !ruby/object:Astro::Star
+    name: Antmel Zelron
+    star_type: A
+  - &49 !ruby/object:Astro::Star
+    name: Annal Werkar
+    star_type: F
+  - &50 !ruby/object:Astro::Star
+    name: Ak Binumjum
+    star_type: O
+  - &51 !ruby/object:Astro::Star
+    name: Arbzeljak
+    star_type: G
+  - &52 !ruby/object:Astro::Star
+    name: Arbgui Tlokur
+    star_type: O
+  - &53 !ruby/object:Astro::Star
+    name: Antan
+    star_type: M
+  - &54 !ruby/object:Astro::Star
+    name: Amaan VII
+    star_type: B
+  - &55 !ruby/object:Astro::Star
+    name: Arbmel IV
+    star_type: K
+  - &56 !ruby/object:Astro::Star
+    name: Arcrinhan IV
+    star_type: K
+  - &57 !ruby/object:Astro::Star
+    name: Anfirbril-Bak
+    star_type: F
+  - &58 !ruby/object:Astro::Star
+    name: Askar Telamtis
+    star_type: K
+  - &59 !ruby/object:Astro::Star
+    name: Ak Karuk
+    star_type: F
+  - !ruby/object:Astro::Star
+    name: Ak II
+    star_type: A
+  - &61 !ruby/object:Astro::Star
+    name: Amtis
+    star_type: K
+  - &62 !ruby/object:Astro::Star
+    name: Antalant
+    star_type: A
+  - &63 !ruby/object:Astro::Star
+    name: Arbgui Itharba
+    star_type: G
+  - &64 !ruby/object:Astro::Star
+    name: Altop VII
+    star_type: M
+  - &65 !ruby/object:Astro::Star
+    name: Antbon
+    star_type: F
+  - &66 !ruby/object:Astro::Star
+    name: Arbithtal
+    star_type: A
+  - &67 !ruby/object:Astro::Star
+    name: Almphin IV
+    star_type: G
+  - &68 !ruby/object:Astro::Star
+    name: Amquelbril Kurmimom
+    star_type: O
+  - &69 !ruby/object:Astro::Star
+    name: Antam Ennab
+    star_type: O
+  - &70 !ruby/object:Astro::Star
+    name: Adyi Lussel
+    star_type: O
+  - *1
+  - &71 !ruby/object:Astro::Star
+    name: Ak Natdur
+    star_type: M
+  - &72 !ruby/object:Astro::Star
+    name: Antyi
+    star_type: F
+  - &73 !ruby/object:Astro::Star
+    name: Antgamnatdur IX
+    star_type: B
+  - &74 !ruby/object:Astro::Star
+    name: Adfed XI
+    star_type: M
+  - &75 !ruby/object:Astro::Star
+    name: Antsern Glodur
+    star_type: A
+  - &76 !ruby/object:Astro::Star
+    name: Ak Teltalkarn
+    star_type: A
+  - &77 !ruby/object:Astro::Star
+    name: Arcval Senond
+    star_type: O
+  - &78 !ruby/object:Astro::Star
+    name: Antkurine Phintanine
+    star_type: B
+  - &79 !ruby/object:Astro::Star
+    name: Ani VI
+    star_type: F
+  - &80 !ruby/object:Astro::Star
+    name: Almgalwat
+    star_type: F
+  - &81 !ruby/object:Astro::Star
+    name: Anrinfed XIII
+    star_type: O
+  - &82 !ruby/object:Astro::Star
+    name: Ak Nub-Suicron
+    star_type: O
+  - &83 !ruby/object:Astro::Star
+    name: Ambiltan
+    star_type: F
+  - &84 !ruby/object:Astro::Star
+    name: Alm-Tros II
+    star_type: A
+  - &85 !ruby/object:Astro::Star
+    name: Alman Enarb
+    star_type: O
+  - &86 !ruby/object:Astro::Star
+    name: Almfedwer Kalpinas
+    star_type: F
+  - &87 !ruby/object:Astro::Star
+    name: Arbalm
+    star_type: M
+  - &88 !ruby/object:Astro::Star
+    name: Arbas Bantis
+    star_type: O
+  - &89 !ruby/object:Astro::Star
+    name: Antoo
+    star_type: F
+  - &90 !ruby/object:Astro::Star
+    name: Antbar
+    star_type: A
+  - &91 !ruby/object:Astro::Star
+    name: Asdur Val Hansel
+    star_type: O
+  - &92 !ruby/object:Astro::Star
+    name: Annatalm Almbilend
+    star_type: M
+  - &93 !ruby/object:Astro::Star
+    name: Asbin IX
+    star_type: G
+  - &94 !ruby/object:Astro::Star
+    name: Alnik
+    star_type: M
+  - &95 !ruby/object:Astro::Star
+    name: Adtal V
+    star_type: B
+  - &96 !ruby/object:Astro::Star
+    name: Altisgoh Lor-Is
+    star_type: M
+  - &97 !ruby/object:Astro::Star
+    name: Anjak
+    star_type: K
+  - &98 !ruby/object:Astro::Star
+    name: Ak Nagooine
+    star_type: M
+  - &99 !ruby/object:Astro::Star
+    name: Arbtan III
+    star_type: O
+  - &100 !ruby/object:Astro::Star
+    name: Ak z'Rer
+    star_type: A
+  - &60 !ruby/object:Astro::Star
+    name: Ak II
+    star_type: F
+  - &101 !ruby/object:Astro::Star
+    name: Arbryl Talsel
+    star_type: O
+  - &102 !ruby/object:Astro::Star
+    name: Ak Durhonbes
+    star_type: A
+  - &103 !ruby/object:Astro::Star
+    name: Ak Jumbon
+    star_type: A
+  - &104 !ruby/object:Astro::Star
+    name: Anbinfir
+    star_type: G
+  - &105 !ruby/object:Astro::Star
+    name: Arbvartelwer
+    star_type: F
+  - &106 !ruby/object:Astro::Star
+    name: Anten Asnub
+    star_type: O
+  b:
+  - &107 !ruby/object:Astro::Star
+    name: Besnubmelond
+    star_type: K
+  - &108 !ruby/object:Astro::Star
+    name: Brilkes Mimzoc
+    star_type: K
+  - &109 !ruby/object:Astro::Star
+    name: Banarb
+    star_type: M
+  - &110 !ruby/object:Astro::Star
+    name: Ban-Firnat
+    star_type: A
+  - &111 !ruby/object:Astro::Star
+    name: Belcom Raxyin
+    star_type: O
+  - &112 !ruby/object:Astro::Star
+    name: Bilfirsui Zelfirkarn
+    star_type: F
+  - &113 !ruby/object:Astro::Star
+    name: Bari
+    star_type: F
+  - &114 !ruby/object:Astro::Star
+    name: Bannab
+    star_type: M
+  - &115 !ruby/object:Astro::Star
+    name: Banine
+    star_type: F
+  - &116 !ruby/object:Astro::Star
+    name: Beleer Watjum
+    star_type: K
+  - &117 !ruby/object:Astro::Star
+    name: Besbrildur
+    star_type: G
+  - &118 !ruby/object:Astro::Star
+    name: Bakmel Gam-Nab
+    star_type: O
+  - &119 !ruby/object:Astro::Star
+    name: Besgam XV
+    star_type: O
+  - &120 !ruby/object:Astro::Star
+    name: Beshanmelis III
+    star_type: F
+  - &121 !ruby/object:Astro::Star
+    name: Bilior Rutad
+    star_type: K
+  - &122 !ruby/object:Astro::Star
+    name: Bes'Bin XIII
+    star_type: G
+  - &123 !ruby/object:Astro::Star
+    name: Burkom
+    star_type: G
+  - &124 !ruby/object:Astro::Star
+    name: Bonjak
+    star_type: F
+  - &125 !ruby/object:Astro::Star
+    name: Binbinir Mettis
+    star_type: G
+  - &126 !ruby/object:Astro::Star
+    name: Bartal
+    star_type: O
+  - &127 !ruby/object:Astro::Star
+    name: Burrer
+    star_type: F
+  - &128 !ruby/object:Astro::Star
+    name: Bantop
+    star_type: G
+  - &129 !ruby/object:Astro::Star
+    name: b'Gess Guigal
+    star_type: M
+  - &130 !ruby/object:Astro::Star
+    name: Beljak
+    star_type: A
+  - &131 !ruby/object:Astro::Star
+    name: Ban-Aan
+    star_type: F
+  - &132 !ruby/object:Astro::Star
+    name: Binsummyr
+    star_type: F
+  - &133 !ruby/object:Astro::Star
+    name: Bilvar
+    star_type: M
+  - &134 !ruby/object:Astro::Star
+    name: Bindur VI
+    star_type: K
+  - &135 !ruby/object:Astro::Star
+    name: Brilselas
+    star_type: M
+  - &136 !ruby/object:Astro::Star
+    name: Bilkur
+    star_type: B
+  - *2
+  - &137 !ruby/object:Astro::Star
+    name: Beslus Suiantdar
+    star_type: B
+  - &138 !ruby/object:Astro::Star
+    name: Banmyrgam Omu
+    star_type: G
+  - &139 !ruby/object:Astro::Star
+    name: Bonend Melgli
+    star_type: B
+  - &140 !ruby/object:Astro::Star
+    name: Barkom VII
+    star_type: A
+  - &141 !ruby/object:Astro::Star
+    name: Bonkomjon Asnab
+    star_type: K
+  - &142 !ruby/object:Astro::Star
+    name: Bonrurgam
+    star_type: B
+  - &143 !ruby/object:Astro::Star
+    name: Binris
+    star_type: O
+  - &144 !ruby/object:Astro::Star
+    name: Burdur Zunsavdar
+    star_type: K
+  - &145 !ruby/object:Astro::Star
+    name: Besondtan VI
+    star_type: F
+  - &146 !ruby/object:Astro::Star
+    name: Besadsel IX
+    star_type: O
+  - &147 !ruby/object:Astro::Star
+    name: Binkom
+    star_type: B
+  - &148 !ruby/object:Astro::Star
+    name: Biltan XI
+    star_type: M
+  - &149 !ruby/object:Astro::Star
+    name: Burkes IX
+    star_type: G
+  - &150 !ruby/object:Astro::Star
+    name: Bakkarn
+    star_type: A
+  - &151 !ruby/object:Astro::Star
+    name: Binnik Lidgoh
+    star_type: M
+  - &152 !ruby/object:Astro::Star
+    name: Banhilas
+    star_type: G
+  - !ruby/object:Astro::Star
+    name: Bonas VII
+    star_type: A
+  - &154 !ruby/object:Astro::Star
+    name: Barburis
+    star_type: M
+  - &155 !ruby/object:Astro::Star
+    name: Binea
+    star_type: O
+  - &156 !ruby/object:Astro::Star
+    name: Buri Darquelaan
+    star_type: B
+  - &157 !ruby/object:Astro::Star
+    name: Bel-Gal VI
+    star_type: M
+  - &158 !ruby/object:Astro::Star
+    name: Bilsav XV
+    star_type: G
+  - &159 !ruby/object:Astro::Star
+    name: Burkesea X
+    star_type: M
+  - &160 !ruby/object:Astro::Star
+    name: Bursav
+    star_type: F
+  - &161 !ruby/object:Astro::Star
+    name: Bonphin
+    star_type: A
+  - &162 !ruby/object:Astro::Star
+    name: Bonbiloth Lusuk
+    star_type: F
+  - &163 !ruby/object:Astro::Star
+    name: Bilendvalfirhil
+    star_type: A
+  - &164 !ruby/object:Astro::Star
+    name: Belrur Gessdur
+    star_type: G
+  - &165 !ruby/object:Astro::Star
+    name: Banas
+    star_type: M
+  - &166 !ruby/object:Astro::Star
+    name: Belpinas
+    star_type: F
+  - &167 !ruby/object:Astro::Star
+    name: Boncm XI
+    star_type: K
+  - &168 !ruby/object:Astro::Star
+    name: Banad Savtal-Ine
+    star_type: B
+  - &169 !ruby/object:Astro::Star
+    name: Barsui III
+    star_type: G
+  - &170 !ruby/object:Astro::Star
+    name: Banoo Anter
+    star_type: B
+  - &171 !ruby/object:Astro::Star
+    name: Besnikkalalm
+    star_type: O
+  - &172 !ruby/object:Astro::Star
+    name: Biline Darlus
+    star_type: K
+  - &173 !ruby/object:Astro::Star
+    name: Bon-Cer V
+    star_type: G
+  - &174 !ruby/object:Astro::Star
+    name: Bonrut Natgal
+    star_type: A
+  - &175 !ruby/object:Astro::Star
+    name: Bargli IX
+    star_type: K
+  - &176 !ruby/object:Astro::Star
+    name: Bil'Kom XIV
+    star_type: B
+  - &177 !ruby/object:Astro::Star
+    name: Bakgal
+    star_type: F
+  - &178 !ruby/object:Astro::Star
+    name: Bakgui XIII
+    star_type: A
+  - &179 !ruby/object:Astro::Star
+    name: Bilumeer Zunbel
+    star_type: O
+  - &180 !ruby/object:Astro::Star
+    name: Buria Sel Rurgam
+    star_type: B
+  - &181 !ruby/object:Astro::Star
+    name: Brilum Savpin
+    star_type: A
+  - &182 !ruby/object:Astro::Star
+    name: Bakum VII
+    star_type: B
+  - &183 !ruby/object:Astro::Star
+    name: Bilarc
+    star_type: A
+  - &184 !ruby/object:Astro::Star
+    name: Baral
+    star_type: K
+  - &185 !ruby/object:Astro::Star
+    name: Barteltel Gessjum
+    star_type: M
+  - &186 !ruby/object:Astro::Star
+    name: Binnabwer
+    star_type: F
+  - &187 !ruby/object:Astro::Star
+    name: Baksum
+    star_type: B
+  - &188 !ruby/object:Astro::Star
+    name: Burlantal Telarb
+    star_type: A
+  - &189 !ruby/object:Astro::Star
+    name: Brildar Bilbar
+    star_type: M
+  - &190 !ruby/object:Astro::Star
+    name: Bincersuibar XIV
+    star_type: B
+  - &191 !ruby/object:Astro::Star
+    name: Bescomea
+    star_type: K
+  - &192 !ruby/object:Astro::Star
+    name: Binhon Pinwat
+    star_type: B
+  - &193 !ruby/object:Astro::Star
+    name: Binron
+    star_type: A
+  - &194 !ruby/object:Astro::Star
+    name: Banbril Leslor
+    star_type: M
+  - &195 !ruby/object:Astro::Star
+    name: Bini IX
+    star_type: M
+  - &153 !ruby/object:Astro::Star
+    name: Bonas VII
+    star_type: A
+  - &196 !ruby/object:Astro::Star
+    name: Burrut Topal
+    star_type: A
+  c:
+  - &197 !ruby/object:Astro::Star
+    name: Comi
+    star_type: A
+  - &198 !ruby/object:Astro::Star
+    name: Cronphinrin
+    star_type: B
+  - *3
+  - &199 !ruby/object:Astro::Star
+    name: Cerlia XI
+    star_type: F
+  - &200 !ruby/object:Astro::Star
+    name: Cmdan
+    star_type: O
+  - &201 !ruby/object:Astro::Star
+    name: Com'Mel VI
+    star_type: O
+  - &202 !ruby/object:Astro::Star
+    name: Cmyi IV
+    star_type: O
+  - &203 !ruby/object:Astro::Star
+    name: Comnag Lidwerar
+    star_type: F
+  - &204 !ruby/object:Astro::Star
+    name: Comnub
+    star_type: O
+  - &205 !ruby/object:Astro::Star
+    name: Cm'Lid
+    star_type: F
+  - &206 !ruby/object:Astro::Star
+    name: c'Sen XII
+    star_type: A
+  - &207 !ruby/object:Astro::Star
+    name: Cerriskar
+    star_type: O
+  - &208 !ruby/object:Astro::Star
+    name: Corban XII
+    star_type: G
+  - &209 !ruby/object:Astro::Star
+    name: Corrif XIII
+    star_type: K
+  - &210 !ruby/object:Astro::Star
+    name: Cronron X
+    star_type: B
+  - &211 !ruby/object:Astro::Star
+    name: Comdar
+    star_type: O
+  - &212 !ruby/object:Astro::Star
+    name: Comdag Erkom Gamyi
+    star_type: G
+  - &213 !ruby/object:Astro::Star
+    name: Cronzocluscomwer
+    star_type: M
+    initial: false
+  - &214 !ruby/object:Astro::Star
+    name: Com-Rif IV
+    star_type: F
+  - &215 !ruby/object:Astro::Star
+    name: c'Sen VII
+    star_type: K
+  - &216 !ruby/object:Astro::Star
+    name: Corquel Yindag
+    star_type: G
+  - &217 !ruby/object:Astro::Star
+    name: Ceryin Telcor
+    star_type: M
+  - &218 !ruby/object:Astro::Star
+    name: Cor'Dar X
+    star_type: K
+  - &219 !ruby/object:Astro::Star
+    name: Cersavooine Zelmetu
+    star_type: A
+  - &220 !ruby/object:Astro::Star
+    name: Coryi XI
+    star_type: F
+  - &221 !ruby/object:Astro::Star
+    name: Cmbrillor Durriflid
+    star_type: F
+  - &222 !ruby/object:Astro::Star
+    name: Comtaler Kesis
+    star_type: B
+  - &223 !ruby/object:Astro::Star
+    name: Cornag
+    star_type: O
+  - &224 !ruby/object:Astro::Star
+    name: Crongli
+    star_type: G
+  - &225 !ruby/object:Astro::Star
+    name: Corteltloasan
+    star_type: G
+  - &226 !ruby/object:Astro::Star
+    name: Corcergal
+    star_type: F
+  - &227 !ruby/object:Astro::Star
+    name: Cronrax Amith
+    star_type: A
+  - &228 !ruby/object:Astro::Star
+    name: Cmrer Trosdur-Dur
+    star_type: K
+  - &229 !ruby/object:Astro::Star
+    name: Cmlan
+    star_type: O
+  - &230 !ruby/object:Astro::Star
+    name: Comhilarc
+    star_type: K
+  - &231 !ruby/object:Astro::Star
+    name: Corkal IX
+    star_type: A
+  - &232 !ruby/object:Astro::Star
+    name: Ceren XII
+    star_type: K
+  - &233 !ruby/object:Astro::Star
+    name: Cerryl
+    star_type: A
+  - &234 !ruby/object:Astro::Star
+    name: Cron-Oo
+    star_type: O
+  - &235 !ruby/object:Astro::Star
+    name: Cmdur Hanen
+    star_type: K
+  - &236 !ruby/object:Astro::Star
+    name: Cernal Tloris
+    star_type: O
+  - &237 !ruby/object:Astro::Star
+    name: Cronnagen
+    star_type: M
+  - &238 !ruby/object:Astro::Star
+    name: Corgam IX
+    star_type: M
+  - &239 !ruby/object:Astro::Star
+    name: Cmjak Gligli
+    star_type: B
+  - &240 !ruby/object:Astro::Star
+    name: Comkarrer-An
+    star_type: G
+  - &241 !ruby/object:Astro::Star
+    name: Cronas Adum
+    star_type: F
+  - &242 !ruby/object:Astro::Star
+    name: Cmtrosnat
+    star_type: A
+  - &243 !ruby/object:Astro::Star
+    name: Cronrutas Kurteltros
+    star_type: A
+  - &244 !ruby/object:Astro::Star
+    name: Corjon
+    star_type: K
+  d:
+  - &245 !ruby/object:Astro::Star
+    name: Dagcorkarn
+    star_type: O
+  - &246 !ruby/object:Astro::Star
+    name: Dagwer
+    star_type: G
+  - &247 !ruby/object:Astro::Star
+    name: Darvarbanarc
+    star_type: F
+  - &248 !ruby/object:Astro::Star
+    name: Danar XIV
+    star_type: G
+  - &249 !ruby/object:Astro::Star
+    name: Dagfir
+    star_type: M
+  - &250 !ruby/object:Astro::Star
+    name: Dagrur-Cm
+    star_type: K
+  - &251 !ruby/object:Astro::Star
+    name: Dur'Uk Endnub
+    star_type: F
+  - &252 !ruby/object:Astro::Star
+    name: Dagad XV
+    star_type: F
+  - &253 !ruby/object:Astro::Star
+    name: Daglorkomkom
+    star_type: A
+  - &254 !ruby/object:Astro::Star
+    name: Dur-Dur
+    star_type: M
+  - &255 !ruby/object:Astro::Star
+    name: Dagyi X
+    star_type: F
+  - &256 !ruby/object:Astro::Star
+    name: Dagyintlozoc
+    star_type: O
+  - &257 !ruby/object:Astro::Star
+    name: Danquel
+    star_type: O
+  - &258 !ruby/object:Astro::Star
+    name: Dandarooine II
+    star_type: M
+  - &259 !ruby/object:Astro::Star
+    name: d'Var
+    star_type: M
+  - &260 !ruby/object:Astro::Star
+    name: Daggui Phinban
+    star_type: M
+  - &261 !ruby/object:Astro::Star
+    name: Danar VII
+    star_type: G
+  - &262 !ruby/object:Astro::Star
+    name: Duri t'Rur
+    star_type: G
+  - &263 !ruby/object:Astro::Star
+    name: Dagjon Rutmelsui
+    star_type: O
+  - &264 !ruby/object:Astro::Star
+    name: Durnal Yinkur
+    star_type: F
+  - &265 !ruby/object:Astro::Star
+    name: Dangohcmrur
+    star_type: A
+  - &266 !ruby/object:Astro::Star
+    name: Duren
+    star_type: K
+  - &267 !ruby/object:Astro::Star
+    name: Dagmetal
+    star_type: F
+  - &268 !ruby/object:Astro::Star
+    name: Duras
+    star_type: G
+  - &269 !ruby/object:Astro::Star
+    name: Daruk Erkar
+    star_type: A
+  - &270 !ruby/object:Astro::Star
+    name: Dagumsernkarn
+    star_type: O
+  - &271 !ruby/object:Astro::Star
+    name: Danas
+    star_type: F
+  - &272 !ruby/object:Astro::Star
+    name: Dagquel
+    star_type: K
+  - &273 !ruby/object:Astro::Star
+    name: Durfedyn
+    star_type: K
+  - &274 !ruby/object:Astro::Star
+    name: Danzel
+    star_type: G
+  - &275 !ruby/object:Astro::Star
+    name: Dar'Uk VI
+    star_type: O
+  - &276 !ruby/object:Astro::Star
+    name: Darkur
+    star_type: F
+  - &277 !ruby/object:Astro::Star
+    name: Dangam
+    star_type: B
+  - &278 !ruby/object:Astro::Star
+    name: Duralm XV
+    star_type: G
+  - &279 !ruby/object:Astro::Star
+    name: Danphin Binryl
+    star_type: F
+  - &280 !ruby/object:Astro::Star
+    name: d'Sen Karban
+    star_type: G
+  - &281 !ruby/object:Astro::Star
+    name: Durbakalm
+    star_type: K
+  - &282 !ruby/object:Astro::Star
+    name: Durgli IV
+    star_type: F
+  - &283 !ruby/object:Astro::Star
+    name: Durlan
+    star_type: K
+  - *4
+  - &284 !ruby/object:Astro::Star
+    name: Dantis IV
+    star_type: K
+  - &285 !ruby/object:Astro::Star
+    name: Darantzocban
+    star_type: B
+  - &286 !ruby/object:Astro::Star
+    name: Daram
+    star_type: F
+  g:
+  - &287 !ruby/object:Astro::Star
+    name: Gessior
+    star_type: A
+  - &288 !ruby/object:Astro::Star
+    name: Gohburan IX
+    star_type: O
+  - &289 !ruby/object:Astro::Star
+    name: Goh-I
+    star_type: B
+  - &290 !ruby/object:Astro::Star
+    name: Guikarn Zocquel
+    star_type: K
+  - &291 !ruby/object:Astro::Star
+    name: Galwat-Gal
+    star_type: B
+  - &292 !ruby/object:Astro::Star
+    name: Guiom XIV
+    star_type: M
+  - &293 !ruby/object:Astro::Star
+    name: Guicm XII
+    star_type: B
+  - *5
+  - &294 !ruby/object:Astro::Star
+    name: Gliin Valsui
+    star_type: M
+  - &295 !ruby/object:Astro::Star
+    name: Ganzocad XV
+    star_type: A
+  - &296 !ruby/object:Astro::Star
+    name: Gohgess VII
+    star_type: O
+  - &297 !ruby/object:Astro::Star
+    name: Gessles IX
+    star_type: O
+  - &298 !ruby/object:Astro::Star
+    name: Galtal Tanhan
+    star_type: B
+  - &299 !ruby/object:Astro::Star
+    name: Gesszunkalryl
+    star_type: A
+  - &300 !ruby/object:Astro::Star
+    name: Gessles III
+    star_type: K
+  - &301 !ruby/object:Astro::Star
+    name: Guitrosas Komtlo
+    star_type: G
+  - &302 !ruby/object:Astro::Star
+    name: Gamnatrersernis
+    star_type: M
+  - &303 !ruby/object:Astro::Star
+    name: Gamzocsav
+    star_type: G
+  - &304 !ruby/object:Astro::Star
+    name: Ganen Ronfed
+    star_type: G
+  - &305 !ruby/object:Astro::Star
+    name: Goharcjon
+    star_type: F
+  - &306 !ruby/object:Astro::Star
+    name: Ganmim
+    star_type: M
+  - &307 !ruby/object:Astro::Star
+    name: Ganbril Erdurkom
+    star_type: K
+  - &308 !ruby/object:Astro::Star
+    name: Gamsui Nal Jumval
+    star_type: K
+  - &309 !ruby/object:Astro::Star
+    name: Glinub Zunant
+    star_type: B
+  - &310 !ruby/object:Astro::Star
+    name: Gesslan
+    star_type: O
+  - &311 !ruby/object:Astro::Star
+    name: Gal-Bar
+    star_type: A
+  - &312 !ruby/object:Astro::Star
+    name: Guitel
+    star_type: A
+  - &313 !ruby/object:Astro::Star
+    name: Gohcerer III
+    star_type: G
+  - &314 !ruby/object:Astro::Star
+    name: Galzocvar
+    star_type: M
+  - &315 !ruby/object:Astro::Star
+    name: Gloaan
+    star_type: G
+  - &316 !ruby/object:Astro::Star
+    name: Glo-Arb
+    star_type: F
+  - &317 !ruby/object:Astro::Star
+    name: Guiristel
+    star_type: F
+  - &318 !ruby/object:Astro::Star
+    name: Gamarb
+    star_type: B
+  - &319 !ruby/object:Astro::Star
+    name: Guidar V
+    star_type: A
+  - &320 !ruby/object:Astro::Star
+    name: Gamis
+    star_type: F
+  - &321 !ruby/object:Astro::Star
+    name: Gancor Jumfed
+    star_type: O
+  - &322 !ruby/object:Astro::Star
+    name: Guikur Rerbon
+    star_type: A
+  - &323 !ruby/object:Astro::Star
+    name: Gloondend Hanasgoh
+    star_type: B
+  - &324 !ruby/object:Astro::Star
+    name: Gohgam
+    star_type: M
+  - &325 !ruby/object:Astro::Star
+    name: Gamron Guilia
+    star_type: B
+  - &326 !ruby/object:Astro::Star
+    name: Gliyinas
+    star_type: M
+  - &327 !ruby/object:Astro::Star
+    name: Gohgess VI
+    star_type: K
+  - &328 !ruby/object:Astro::Star
+    name: Glimet XIII
+    star_type: F
+  - &329 !ruby/object:Astro::Star
+    name: Gloia Savdur
+    star_type: K
+  - &330 !ruby/object:Astro::Star
+    name: Gloyn
+    star_type: O
+  - &331 !ruby/object:Astro::Star
+    name: Glodur IV
+    star_type: F
+  - &332 !ruby/object:Astro::Star
+    name: Gamdar Pin Cron-Gam
+    star_type: A
+  - &333 !ruby/object:Astro::Star
+    name: Gess'Sui
+    star_type: F
+  - &334 !ruby/object:Astro::Star
+    name: Goh-Yn Nikmet
+    star_type: F
+  - &335 !ruby/object:Astro::Star
+    name: Ganbancm VII
+    star_type: A
+  - &336 !ruby/object:Astro::Star
+    name: Gallan III
+    star_type: O
+  - &337 !ruby/object:Astro::Star
+    name: Gliryl
+    star_type: G
+  - &338 !ruby/object:Astro::Star
+    name: Gessum Gligan
+    star_type: M
+  - &339 !ruby/object:Astro::Star
+    name: Gohsavrurrish Rifphin
+    star_type: B
+  - &340 !ruby/object:Astro::Star
+    name: Gessend Dursenarb
+    star_type: A
+  - &341 !ruby/object:Astro::Star
+    name: Galuk
+    star_type: B
+  - &342 !ruby/object:Astro::Star
+    name: Gessmet Guijon
+    star_type: K
+  - &343 !ruby/object:Astro::Star
+    name: Gal-Yn Bakfir
+    star_type: O
+  - &344 !ruby/object:Astro::Star
+    name: Glotros
+    star_type: F
+  - &345 !ruby/object:Astro::Star
+    name: Guidan Lusyn
+    star_type: K
+  - &346 !ruby/object:Astro::Star
+    name: Gohsav Tistanris
+    star_type: M
+  - &347 !ruby/object:Astro::Star
+    name: Gessbrilguitlo
+    star_type: B
+  - &348 !ruby/object:Astro::Star
+    name: Guiriskal
+    star_type: A
+  - &349 !ruby/object:Astro::Star
+    name: Guihan
+    star_type: B
+  - &350 !ruby/object:Astro::Star
+    name: Glolanbarbak V
+    star_type: O
+  - &351 !ruby/object:Astro::Star
+    name: Gamnab
+    star_type: M
+  - &352 !ruby/object:Astro::Star
+    name: Gan-Talkes XIII
+    star_type: K
+  - &353 !ruby/object:Astro::Star
+    name: Ganyn Lanalmimtlo
+    star_type: B
+  - &354 !ruby/object:Astro::Star
+    name: Guimet
+    star_type: F
+  - &355 !ruby/object:Astro::Star
+    name: Gamnalkarpin
+    star_type: G
+  k:
+  - &356 !ruby/object:Astro::Star
+    name: Kes-Kes
+    star_type: G
+  - &357 !ruby/object:Astro::Star
+    name: Kalnat
+    star_type: F
+  - &358 !ruby/object:Astro::Star
+    name: Kurlidad
+    star_type: G
+  - &359 !ruby/object:Astro::Star
+    name: Karlid Cmtal
+    star_type: B
+  - &360 !ruby/object:Astro::Star
+    name: Kardur III
+    star_type: G
+  - &361 !ruby/object:Astro::Star
+    name: Kar-Jum
+    star_type: O
+  - &362 !ruby/object:Astro::Star
+    name: Kor XIV
+    star_type: G
+  - &363 !ruby/object:Astro::Star
+    name: Kor Rylsav
+    star_type: A
+  - &364 !ruby/object:Astro::Star
+    name: Keskarnnab Natrin
+    star_type: A
+  - &365 !ruby/object:Astro::Star
+    name: Komis
+    star_type: O
+  - &366 !ruby/object:Astro::Star
+    name: Kor Galond
+    star_type: K
+  - &367 !ruby/object:Astro::Star
+    name: Kesphin VII
+    star_type: O
+  - &368 !ruby/object:Astro::Star
+    name: Kalrut IV
+    star_type: B
+  - &369 !ruby/object:Astro::Star
+    name: Komjum
+    star_type: M
+  - &370 !ruby/object:Astro::Star
+    name: Kurtislesvartan
+    star_type: K
+  - &371 !ruby/object:Astro::Star
+    name: Keswater
+    star_type: O
+  - &372 !ruby/object:Astro::Star
+    name: Kurgessmim
+    star_type: O
+  - &373 !ruby/object:Astro::Star
+    name: Kor Besmel
+    star_type: O
+  - &374 !ruby/object:Astro::Star
+    name: Kor Kareer
+    star_type: O
+  - &375 !ruby/object:Astro::Star
+    name: Karn-Glo Erad
+    star_type: F
+  - &376 !ruby/object:Astro::Star
+    name: Kor VII
+    star_type: M
+  - &377 !ruby/object:Astro::Star
+    name: Kurbil-Bil
+    star_type: B
+  - &378 !ruby/object:Astro::Star
+    name: Kurkarn II
+    star_type: B
+  - &379 !ruby/object:Astro::Star
+    name: Kor Guifirtros
+    star_type: B
+  - &380 !ruby/object:Astro::Star
+    name: Komkar Rinmetsern
+    star_type: A
+  - &381 !ruby/object:Astro::Star
+    name: Karcor
+    star_type: A
+  - &382 !ruby/object:Astro::Star
+    name: Kor Tansernithdur
+    star_type: K
+  - &383 !ruby/object:Astro::Star
+    name: Komerir Gohsui
+    star_type: K
+  - &384 !ruby/object:Astro::Star
+    name: Kor Galhonooine
+    star_type: B
+  - &385 !ruby/object:Astro::Star
+    name: Karmimmet Fir'Raxi
+    star_type: A
+  - &386 !ruby/object:Astro::Star
+    name: Kesbarcor
+    star_type: M
+  - &387 !ruby/object:Astro::Star
+    name: Kesval
+    star_type: O
+  - &388 !ruby/object:Astro::Star
+    name: Kesris
+    star_type: F
+  - &389 !ruby/object:Astro::Star
+    name: Kesjak Nikum
+    star_type: M
+  - &390 !ruby/object:Astro::Star
+    name: Kor Kaltis
+    star_type: G
+  - &391 !ruby/object:Astro::Star
+    name: Komal
+    star_type: O
+  - &392 !ruby/object:Astro::Star
+    name: Kaltanrif
+    star_type: B
+  - &393 !ruby/object:Astro::Star
+    name: Keskom Buralm
+    star_type: K
+  - &394 !ruby/object:Astro::Star
+    name: Karnanantyi
+    star_type: G
+  - &395 !ruby/object:Astro::Star
+    name: Kor Melrishdurron
+    star_type: O
+  - &396 !ruby/object:Astro::Star
+    name: Kor Gessdagkesrax
+    star_type: B
+  - !ruby/object:Astro::Star
+    name: Komkur
+    star_type: F
+  - &398 !ruby/object:Astro::Star
+    name: Kalgui Askarnhon
+    star_type: K
+  - &399 !ruby/object:Astro::Star
+    name: Kor Arbcom
+    star_type: O
+  - &400 !ruby/object:Astro::Star
+    name: Kesend VI
+    star_type: A
+  - &401 !ruby/object:Astro::Star
+    name: Karmel Alrin
+    star_type: M
+  - &402 !ruby/object:Astro::Star
+    name: Kor Endmimgal
+    star_type: A
+  - &403 !ruby/object:Astro::Star
+    name: Kesnik
+    star_type: A
+  - &404 !ruby/object:Astro::Star
+    name: Kor Tloancom
+    star_type: M
+  - &405 !ruby/object:Astro::Star
+    name: Kesas
+    star_type: K
+  - &406 !ruby/object:Astro::Star
+    name: Kor Tiser
+    star_type: M
+  - *6
+  - &407 !ruby/object:Astro::Star
+    name: k'Tis
+    star_type: F
+  - &408 !ruby/object:Astro::Star
+    name: Kur'Savryl XIV
+    star_type: A
+  - &409 !ruby/object:Astro::Star
+    name: Kuryin Risa
+    star_type: F
+  - &410 !ruby/object:Astro::Star
+    name: k'Arbamcronam
+    star_type: M
+  - &411 !ruby/object:Astro::Star
+    name: Kurlan-Ant II
+    star_type: B
+  - &412 !ruby/object:Astro::Star
+    name: k'Hil III
+    star_type: A
+  - &413 !ruby/object:Astro::Star
+    name: Kal-Phin
+    star_type: B
+  - &397 !ruby/object:Astro::Star
+    name: Komkur
+    star_type: G
+  - &414 !ruby/object:Astro::Star
+    name: Kalum d'Gan
+    star_type: K
+  - &415 !ruby/object:Astro::Star
+    name: Kombur IV
+    star_type: B
+  - &416 !ruby/object:Astro::Star
+    name: Kor Met-Lan
+    star_type: G
+  - &417 !ruby/object:Astro::Star
+    name: Kor Phinal
+    star_type: M
+  - &418 !ruby/object:Astro::Star
+    name: Kor Lesnag-Sern
+    star_type: G
+  - &419 !ruby/object:Astro::Star
+    name: Karnalmlusis XIV
+    star_type: F
+  m:
+  - &420 !ruby/object:Astro::Star
+    name: Myrior XIII
+    star_type: M
+  - &421 !ruby/object:Astro::Star
+    name: Mimtros XV
+    star_type: B
+  - &422 !ruby/object:Astro::Star
+    name: Metgui
+    star_type: F
+  - *7
+  - &423 !ruby/object:Astro::Star
+    name: Myryi
+    star_type: A
+  - &424 !ruby/object:Astro::Star
+    name: Melcomis
+    star_type: A
+  - &425 !ruby/object:Astro::Star
+    name: Mim-Kom
+    star_type: F
+  - &426 !ruby/object:Astro::Star
+    name: Metuk Lusoo
+    star_type: O
+  - &427 !ruby/object:Astro::Star
+    name: Melrax Natmyr
+    star_type: M
+  - &428 !ruby/object:Astro::Star
+    name: Myrmimnag
+    star_type: A
+  - &429 !ruby/object:Astro::Star
+    name: Myrnab
+    star_type: K
+  - &430 !ruby/object:Astro::Star
+    name: Mimglironpinia
+    star_type: M
+  - &431 !ruby/object:Astro::Star
+    name: Mimkal Antbak
+    star_type: A
+  - &432 !ruby/object:Astro::Star
+    name: Metia
+    star_type: B
+  - &433 !ruby/object:Astro::Star
+    name: Metcmither V
+    star_type: M
+  - &434 !ruby/object:Astro::Star
+    name: Metith
+    star_type: M
+  - &435 !ruby/object:Astro::Star
+    name: Metzel
+    star_type: O
+  - &436 !ruby/object:Astro::Star
+    name: Melend III
+    star_type: A
+  - &437 !ruby/object:Astro::Star
+    name: Metaan V
+    star_type: A
+  - &438 !ruby/object:Astro::Star
+    name: Metquel IX
+    star_type: F
+  - &439 !ruby/object:Astro::Star
+    name: Myrnag
+    star_type: F
+  - &440 !ruby/object:Astro::Star
+    name: Mimtlo
+    star_type: K
+  - &441 !ruby/object:Astro::Star
+    name: Meltop
+    star_type: O
+  - &442 !ruby/object:Astro::Star
+    name: Melbes
+    star_type: A
+  - &443 !ruby/object:Astro::Star
+    name: Myrtlo X
+    star_type: B
+  - &444 !ruby/object:Astro::Star
+    name: Metnatquel
+    star_type: M
+  - &445 !ruby/object:Astro::Star
+    name: Mimcor Cronrurdar
+    star_type: K
+  - &446 !ruby/object:Astro::Star
+    name: Melin
+    star_type: G
+  - &447 !ruby/object:Astro::Star
+    name: Mimyi
+    star_type: O
+  - &448 !ruby/object:Astro::Star
+    name: Mimpin Umooine
+    star_type: M
+  - &449 !ruby/object:Astro::Star
+    name: Myrhonas
+    star_type: M
+  - &450 !ruby/object:Astro::Star
+    name: Metine Arckal
+    star_type: A
+  - &451 !ruby/object:Astro::Star
+    name: m'Tan
+    star_type: A
+  - &452 !ruby/object:Astro::Star
+    name: Metjondar Topir
+    star_type: K
+  n:
+  - &453 !ruby/object:Astro::Star
+    name: Natkom Danend
+    star_type: O
+  - &454 !ruby/object:Astro::Star
+    name: Nar Lor-Bin
+    star_type: K
+  - &455 !ruby/object:Astro::Star
+    name: Nar Rinant
+    star_type: G
+  - &456 !ruby/object:Astro::Star
+    name: Nallus
+    star_type: F
+  - &457 !ruby/object:Astro::Star
+    name: Nager XV
+    star_type: K
+  - &458 !ruby/object:Astro::Star
+    name: Nabrifrur
+    star_type: K
+  - &459 !ruby/object:Astro::Star
+    name: Naldagant Amtel
+    star_type: M
+  - &460 !ruby/object:Astro::Star
+    name: Nar Valdagsav
+    star_type: B
+  - *8
+  - &461 !ruby/object:Astro::Star
+    name: Nar Omgli
+    star_type: A
+  - &462 !ruby/object:Astro::Star
+    name: Nageer Mimtop
+    star_type: O
+  - &463 !ruby/object:Astro::Star
+    name: Nar XV
+    star_type: G
+  - &464 !ruby/object:Astro::Star
+    name: Nar Lorkurgangan
+    star_type: M
+  - &465 !ruby/object:Astro::Star
+    name: Nikmetkes
+    star_type: F
+  - &466 !ruby/object:Astro::Star
+    name: Nubgohlan
+    star_type: G
+  - &467 !ruby/object:Astro::Star
+    name: Nar Ondea
+    star_type: B
+  - &468 !ruby/object:Astro::Star
+    name: Nikdur II
+    star_type: O
+  - &469 !ruby/object:Astro::Star
+    name: Nat'Tanoth
+    star_type: G
+  - &470 !ruby/object:Astro::Star
+    name: Nar Weralmdag
+    star_type: A
+  - &471 !ruby/object:Astro::Star
+    name: Nar Ithgohlus
+    star_type: M
+  - &472 !ruby/object:Astro::Star
+    name: Nikbesis
+    star_type: G
+  - &473 !ruby/object:Astro::Star
+    name: Nubom X
+    star_type: F
+  - &474 !ruby/object:Astro::Star
+    name: Nar Honkalgal
+    star_type: A
+  - &475 !ruby/object:Astro::Star
+    name: Nikondsel
+    star_type: O
+  - &476 !ruby/object:Astro::Star
+    name: Nabval Zelles
+    star_type: K
+  - &477 !ruby/object:Astro::Star
+    name: Natdur XIII
+    star_type: G
+  - &478 !ruby/object:Astro::Star
+    name: Nagbinmet Karend-Rut
+    star_type: A
+  - &479 !ruby/object:Astro::Star
+    name: Nal-Asbesarbrur
+    star_type: O
+  - &480 !ruby/object:Astro::Star
+    name: n'Jakbin
+    star_type: G
+  - &481 !ruby/object:Astro::Star
+    name: Nub-Arc Umhon
+    star_type: K
+  - &482 !ruby/object:Astro::Star
+    name: Nar II
+    star_type: G
+  - &483 !ruby/object:Astro::Star
+    name: Nubrylhon Kesbur
+    star_type: A
+  - &484 !ruby/object:Astro::Star
+    name: Nar Antyi
+    star_type: G
+  - &485 !ruby/object:Astro::Star
+    name: Nar Arbkarrif
+    star_type: K
+  - &486 !ruby/object:Astro::Star
+    name: Nubkom IV
+    star_type: B
+  - &487 !ruby/object:Astro::Star
+    name: Nagum Cronmelyn
+    star_type: K
+  - &488 !ruby/object:Astro::Star
+    name: Nalal
+    star_type: F
+  - &489 !ruby/object:Astro::Star
+    name: Nubzel II
+    star_type: F
+  - &490 !ruby/object:Astro::Star
+    name: Nabrishkarn
+    star_type: O
+  - &491 !ruby/object:Astro::Star
+    name: Nat-Nabval
+    star_type: O
+  - &492 !ruby/object:Astro::Star
+    name: Nikval'Dan
+    star_type: B
+  - &493 !ruby/object:Astro::Star
+    name: Nabtan'Kur
+    star_type: B
+  - &494 !ruby/object:Astro::Star
+    name: Nubpinea
+    star_type: B
+  - &495 !ruby/object:Astro::Star
+    name: Nagrin III
+    star_type: K
+  - &496 !ruby/object:Astro::Star
+    name: Niker-Tros VII
+    star_type: A
+  - &497 !ruby/object:Astro::Star
+    name: Nar Jakbur
+    star_type: B
+  - &498 !ruby/object:Astro::Star
+    name: Nabamhonhan
+    star_type: B
+  - &499 !ruby/object:Astro::Star
+    name: Nar Alrur-Bel
+    star_type: K
+  - &500 !ruby/object:Astro::Star
+    name: Naldar Adbar
+    star_type: K
+  - &501 !ruby/object:Astro::Star
+    name: Nar Ris'Tis
+    star_type: M
+  - &502 !ruby/object:Astro::Star
+    name: Nablesval
+    star_type: K
+  - &503 !ruby/object:Astro::Star
+    name: Niklia
+    star_type: M
+  - &504 !ruby/object:Astro::Star
+    name: Nab-Tros VII
+    star_type: A
+  - &505 !ruby/object:Astro::Star
+    name: Natcor II
+    star_type: F
+  - &506 !ruby/object:Astro::Star
+    name: Nar Gliar
+    star_type: G
+  - &507 !ruby/object:Astro::Star
+    name: Nar Suigal
+    star_type: M
+  - &508 !ruby/object:Astro::Star
+    name: Nikjum
+    star_type: G
+  - &509 !ruby/object:Astro::Star
+    name: Nubbril
+    star_type: O
+  - &510 !ruby/object:Astro::Star
+    name: Nar Bilbar
+    star_type: F
+  - &511 !ruby/object:Astro::Star
+    name: Nar Besfedu
+    star_type: B
+  - &512 !ruby/object:Astro::Star
+    name: Natarb
+    star_type: K
+  - &513 !ruby/object:Astro::Star
+    name: Nubbin Meti
+    star_type: B
+  - &514 !ruby/object:Astro::Star
+    name: Nalgoh X
+    star_type: A
+  - &515 !ruby/object:Astro::Star
+    name: Natarcsuitop
+    star_type: A
+  - &516 !ruby/object:Astro::Star
+    name: Nagarcan VII
+    star_type: B
+  - &517 !ruby/object:Astro::Star
+    name: Nubbarcergal
+    star_type: M
+  - &518 !ruby/object:Astro::Star
+    name: Nikbinbon
+    star_type: B
+  - &519 !ruby/object:Astro::Star
+    name: Nal-Aan XV
+    star_type: A
+  - &520 !ruby/object:Astro::Star
+    name: Naloth Gan'Arb
+    star_type: F
+  - &521 !ruby/object:Astro::Star
+    name: Naggli
+    star_type: F
+  - &522 !ruby/object:Astro::Star
+    name: Nabsuicor
+    star_type: B
+  - &523 !ruby/object:Astro::Star
+    name: Nalond Yinanis
+    star_type: A
+  - &524 !ruby/object:Astro::Star
+    name: Nar Ristros
+    star_type: B
+  - &525 !ruby/object:Astro::Star
+    name: Nar Phinkarvar
+    star_type: M
+  - &526 !ruby/object:Astro::Star
+    name: Nubdarcm VI
+    star_type: B
+  - &527 !ruby/object:Astro::Star
+    name: Nubzun
+    star_type: B
+  - &528 !ruby/object:Astro::Star
+    name: Nikbur
+    star_type: O
+  - &529 !ruby/object:Astro::Star
+    name: Nabcronbanhilron
+    star_type: F
+  - &530 !ruby/object:Astro::Star
+    name: Nikas Fed Serntel
+    star_type: G
+  o:
+  - &531 !ruby/object:Astro::Star
+    name: Ord Globrillor
+    star_type: A
+  - &532 !ruby/object:Astro::Star
+    name: Ondal V
+    star_type: G
+  - &533 !ruby/object:Astro::Star
+    name: Omnagyn XV
+    star_type: O
+  - &534 !ruby/object:Astro::Star
+    name: Omphin
+    star_type: A
+  - &535 !ruby/object:Astro::Star
+    name: Omhan Besgui
+    star_type: K
+  - &536 !ruby/object:Astro::Star
+    name: Omtlo
+    star_type: M
+  - &537 !ruby/object:Astro::Star
+    name: Ord VII
+    star_type: M
+  - &538 !ruby/object:Astro::Star
+    name: Ondval III
+    star_type: F
+  - &539 !ruby/object:Astro::Star
+    name: Omtlo-Binglo
+    star_type: O
+  - &540 !ruby/object:Astro::Star
+    name: Ord Werbonas
+    star_type: K
+  - &541 !ruby/object:Astro::Star
+    name: Ondia
+    star_type: O
+  - &542 !ruby/object:Astro::Star
+    name: Omant
+    star_type: B
+  - &543 !ruby/object:Astro::Star
+    name: Ord Brillus
+    star_type: G
+  - &544 !ruby/object:Astro::Star
+    name: Omwat Joncerglo
+    star_type: G
+  - &545 !ruby/object:Astro::Star
+    name: Ord Billia
+    star_type: B
+  - &546 !ruby/object:Astro::Star
+    name: Ord Rifumnikgan
+    star_type: A
+  - &547 !ruby/object:Astro::Star
+    name: Ord Antumyin
+    star_type: G
+  - &548 !ruby/object:Astro::Star
+    name: Ord Suiles
+    star_type: B
+  - &549 !ruby/object:Astro::Star
+    name: Ondglo g'Quelam
+    star_type: F
+  - &550 !ruby/object:Astro::Star
+    name: Ord Antkes
+    star_type: K
+  - &551 !ruby/object:Astro::Star
+    name: Ord III
+    star_type: G
+  - &552 !ruby/object:Astro::Star
+    name: Omsen VI
+    star_type: G
+  - &553 !ruby/object:Astro::Star
+    name: Ondasryl
+    star_type: O
+  - &554 !ruby/object:Astro::Star
+    name: Ord Comnalmel
+    star_type: B
+  - &555 !ruby/object:Astro::Star
+    name: Ondmyrjon
+    star_type: B
+  - &556 !ruby/object:Astro::Star
+    name: Ondwer Nagalend
+    star_type: F
+  - &557 !ruby/object:Astro::Star
+    name: Ord Risom
+    star_type: F
+  - &558 !ruby/object:Astro::Star
+    name: Ombilmel Myrphinir
+    star_type: F
+  - &559 !ruby/object:Astro::Star
+    name: Ondia Myrend
+    star_type: O
+  - &560 !ruby/object:Astro::Star
+    name: o'Nab
+    star_type: O
+  - &561 !ruby/object:Astro::Star
+    name: Ondyin
+    star_type: B
+  - *9
+  - &562 !ruby/object:Astro::Star
+    name: Omkur Seluk
+    star_type: M
+  - &563 !ruby/object:Astro::Star
+    name: Omad Pincm
+    star_type: M
+  - &564 !ruby/object:Astro::Star
+    name: Ondbak Arcbon
+    star_type: K
+  - &565 !ruby/object:Astro::Star
+    name: Omsav VII
+    star_type: K
+  - &566 !ruby/object:Astro::Star
+    name: Ord Ondbonzoc
+    star_type: G
+  - &567 !ruby/object:Astro::Star
+    name: Om'Al Bel-Les
+    star_type: K
+  - &568 !ruby/object:Astro::Star
+    name: Ondtros IV
+    star_type: A
+  - &569 !ruby/object:Astro::Star
+    name: Om-Hanir XV
+    star_type: M
+  - &570 !ruby/object:Astro::Star
+    name: Omzunsui Brilarc
+    star_type: M
+  - &571 !ruby/object:Astro::Star
+    name: Ondoo Belum
+    star_type: G
+  - &572 !ruby/object:Astro::Star
+    name: Ord Tanan
+    star_type: K
+  - &573 !ruby/object:Astro::Star
+    name: Ord Tlorish
+    star_type: A
+  - &574 !ruby/object:Astro::Star
+    name: Ord Zuntop
+    star_type: B
+  p:
+  - &575 !ruby/object:Astro::Star
+    name: p'Rif Ris-Met
+    star_type: G
+  - &576 !ruby/object:Astro::Star
+    name: Phinval q'Han
+    star_type: O
+  - &577 !ruby/object:Astro::Star
+    name: Pinbanom XIV
+    star_type: A
+  - &578 !ruby/object:Astro::Star
+    name: Phinin
+    star_type: A
+  - &579 !ruby/object:Astro::Star
+    name: Pinen Ithlid
+    star_type: F
+  - &580 !ruby/object:Astro::Star
+    name: Phineer Werooine
+    star_type: F
+  - &581 !ruby/object:Astro::Star
+    name: Pinomdur Bursel
+    star_type: G
+  - &582 !ruby/object:Astro::Star
+    name: Phinkom
+    star_type: B
+  - *10
+  - &583 !ruby/object:Astro::Star
+    name: Phinmim
+    star_type: F
+  - &584 !ruby/object:Astro::Star
+    name: Phinraxwat
+    star_type: A
+  - &585 !ruby/object:Astro::Star
+    name: Pinum V
+    star_type: K
+  - &586 !ruby/object:Astro::Star
+    name: Phinrish
+    star_type: K
+  - &587 !ruby/object:Astro::Star
+    name: Phincron
+    star_type: B
+  q:
+  - &588 !ruby/object:Astro::Star
+    name: q'Nat
+    star_type: F
+  - &589 !ruby/object:Astro::Star
+    name: q'Mel X
+    star_type: O
+  - &590 !ruby/object:Astro::Star
+    name: Quelles Rersav
+    star_type: B
+  - &591 !ruby/object:Astro::Star
+    name: Quelpin Banum
+    star_type: B
+  - *11
+  - &592 !ruby/object:Astro::Star
+    name: Quelpinmet Rutnab
+    star_type: M
+  - &593 !ruby/object:Astro::Star
+    name: q'Rer XIV
+    star_type: F
+  t:
+  - &594 !ruby/object:Astro::Star
+    name: Tlopintis
+    star_type: K
+  - &595 !ruby/object:Astro::Star
+    name: Telarbsav
+    star_type: B
+  - &596 !ruby/object:Astro::Star
+    name: Trosgoh Arblia
+    star_type: A
+  - &597 !ruby/object:Astro::Star
+    name: Tan-Met
+    star_type: O
+  - &598 !ruby/object:Astro::Star
+    name: Topkomzoc
+    star_type: M
+  - &599 !ruby/object:Astro::Star
+    name: Taldar Natrish
+    star_type: G
+  - &600 !ruby/object:Astro::Star
+    name: Tanar III
+    star_type: A
+  - &601 !ruby/object:Astro::Star
+    name: Tlobur
+    star_type: K
+  - &602 !ruby/object:Astro::Star
+    name: Tel-Tros VII
+    star_type: M
+  - &603 !ruby/object:Astro::Star
+    name: Telsern III
+    star_type: G
+  - &604 !ruby/object:Astro::Star
+    name: Talraxlor Binlus
+    star_type: K
+  - &605 !ruby/object:Astro::Star
+    name: Talumkom
+    star_type: F
+  - &606 !ruby/object:Astro::Star
+    name: Trosrax XV
+    star_type: M
+  - *12
+  - &607 !ruby/object:Astro::Star
+    name: Troslidbar
+    star_type: O
+  - &608 !ruby/object:Astro::Star
+    name: Teloth XIV
+    star_type: O
+  - &609 !ruby/object:Astro::Star
+    name: Tiseer XII
+    star_type: K
+  - &610 !ruby/object:Astro::Star
+    name: Tal-Is XIV
+    star_type: O
+  - &611 !ruby/object:Astro::Star
+    name: Telnabas Ronoth
+    star_type: M
+  - &612 !ruby/object:Astro::Star
+    name: Tisgoh
+    star_type: F
+  - &613 !ruby/object:Astro::Star
+    name: Topooine XIII
+    star_type: G
+  - &614 !ruby/object:Astro::Star
+    name: Trosbesmyrphin
+    star_type: G
+  - &615 !ruby/object:Astro::Star
+    name: Trosarb Er-Is
+    star_type: B
+  - &616 !ruby/object:Astro::Star
+    name: Telmim IV
+    star_type: K
+  - &617 !ruby/object:Astro::Star
+    name: Tlozelpin
+    star_type: F
+  - &618 !ruby/object:Astro::Star
+    name: Tis'End Nubas
+    star_type: G
+  - &619 !ruby/object:Astro::Star
+    name: Telnubdur XIII
+    star_type: O
+  - &620 !ruby/object:Astro::Star
+    name: Tanyi
+    star_type: O
+  - &621 !ruby/object:Astro::Star
+    name: Tal-Enlan V
+    star_type: M
+  - &622 !ruby/object:Astro::Star
+    name: Tankomtis
+    star_type: M
+  - &623 !ruby/object:Astro::Star
+    name: Tistisennubum
+    star_type: A
+  - &624 !ruby/object:Astro::Star
+    name: Tiskomsui
+    star_type: K
+  - &625 !ruby/object:Astro::Star
+    name: Taltlo III
+    star_type: A
+  - &626 !ruby/object:Astro::Star
+    name: Tros-Alguihan
+    star_type: O
+  - &627 !ruby/object:Astro::Star
+    name: Trosrisquel Lanithkes
+    star_type: M
+  - &628 !ruby/object:Astro::Star
+    name: Tanhan
+    star_type: F
+  - &629 !ruby/object:Astro::Star
+    name: Tlobarea Serndag
+    star_type: O
+  - &630 !ruby/object:Astro::Star
+    name: Tisgan
+    star_type: A
+  - &631 !ruby/object:Astro::Star
+    name: Telbindan III
+    star_type: K
+  - &632 !ruby/object:Astro::Star
+    name: Trosyn Guizoc
+    star_type: K
+  - &633 !ruby/object:Astro::Star
+    name: Talhon II
+    star_type: B
+  - &634 !ruby/object:Astro::Star
+    name: Tlosen XII
+    star_type: F
+  - &635 !ruby/object:Astro::Star
+    name: Top'Bur
+    star_type: A
+  - &636 !ruby/object:Astro::Star
+    name: Talad-Lid
+    star_type: A
+  - &637 !ruby/object:Astro::Star
+    name: Tlomim
+    star_type: A
+  - &638 !ruby/object:Astro::Star
+    name: Tiskarn Hilooine
+    star_type: B
+  - &639 !ruby/object:Astro::Star
+    name: Top-Var Pinban
+    star_type: M
+  - &640 !ruby/object:Astro::Star
+    name: Talarbjon
+    star_type: O
+  - &641 !ruby/object:Astro::Star
+    name: Talas Zocjon
+    star_type: G
+  - &642 !ruby/object:Astro::Star
+    name: Trostoprutis
+    star_type: G
+  - &643 !ruby/object:Astro::Star
+    name: Talant Niksum
+    star_type: F
+  - &644 !ruby/object:Astro::Star
+    name: Tisnabtel
+    star_type: B
+  - &645 !ruby/object:Astro::Star
+    name: Telrontelmet Enine
+    star_type: B
+  - &646 !ruby/object:Astro::Star
+    name: Top-Bargam X
+    star_type: A
+  - &647 !ruby/object:Astro::Star
+    name: Tanron IV
+    star_type: F
+  - &648 !ruby/object:Astro::Star
+    name: Talhon Tal Hantel
+    star_type: B
+  - &649 !ruby/object:Astro::Star
+    name: Telend Bila
+    star_type: F
+  - &650 !ruby/object:Astro::Star
+    name: Tan-U
+    star_type: B
+  - &651 !ruby/object:Astro::Star
+    name: Telrin IX
+    star_type: O
+  - &652 !ruby/object:Astro::Star
+    name: Tal-Fed X
+    star_type: B
+  - &653 !ruby/object:Astro::Star
+    name: Talcer Adarc
+    star_type: A
+  - &654 !ruby/object:Astro::Star
+    name: Telfedcm Zelhil
+    star_type: B
+  - &655 !ruby/object:Astro::Star
+    name: Troshil
+    star_type: K
+  - &656 !ruby/object:Astro::Star
+    name: Tlogam
+    star_type: K
+  - &657 !ruby/object:Astro::Star
+    name: Tisnik Arcjum
+    star_type: A
+  w:
+  - &658 !ruby/object:Astro::Star
+    name: Weras
+    star_type: K
+  - &659 !ruby/object:Astro::Star
+    name: Watbak
+    star_type: B
+  - &660 !ruby/object:Astro::Star
+    name: Watmelsui-As XV
+    star_type: A
+  - &661 !ruby/object:Astro::Star
+    name: Wersuivalior
+    star_type: G
+  - &662 !ruby/object:Astro::Star
+    name: Wermet Yintros
+    star_type: F
+  - &663 !ruby/object:Astro::Star
+    name: Watbanjum
+    star_type: M
+  - &664 !ruby/object:Astro::Star
+    name: Werior Isnik
+    star_type: O
+  - &665 !ruby/object:Astro::Star
+    name: Werbakir
+    star_type: A
+  - &666 !ruby/object:Astro::Star
+    name: Watertan
+    star_type: K
+  - &667 !ruby/object:Astro::Star
+    name: Weryintanglo
+    star_type: A
+  - &668 !ruby/object:Astro::Star
+    name: Wermetrin
+    star_type: A
+  - &669 !ruby/object:Astro::Star
+    name: w'Rax
+    star_type: F
+  - &670 !ruby/object:Astro::Star
+    name: Watcmfir III
+    star_type: M
+  - &671 !ruby/object:Astro::Star
+    name: Werglooo
+    star_type: M
+  - &672 !ruby/object:Astro::Star
+    name: Wersernaan
+    star_type: O
+  - *13
+  - &673 !ruby/object:Astro::Star
+    name: w'Gess
+    star_type: G
+  - &674 !ruby/object:Astro::Star
+    name: Watarb Galuk
+    star_type: O
+  - &675 !ruby/object:Astro::Star
+    name: Watbaksui Zocnub
+    star_type: A
+  - &676 !ruby/object:Astro::Star
+    name: Wertel Lorglo
+    star_type: A
+  - &677 !ruby/object:Astro::Star
+    name: Wervar Arbguitel
+    star_type: O
+  z:
+  - &678 !ruby/object:Astro::Star
+    name: Zelangli
+    star_type: A
+  - &679 !ruby/object:Astro::Star
+    name: Zelith Rishasnalnat
+    star_type: M
+  - &680 !ruby/object:Astro::Star
+    name: Zuncm Antnal
+    star_type: F
+  - !ruby/object:Astro::Star
+    name: Zunban
+    star_type: A
+  - &682 !ruby/object:Astro::Star
+    name: Zunvar Jonas
+    star_type: K
+  - *14
+  - &683 !ruby/object:Astro::Star
+    name: Zocyintan An-Cor
+    star_type: G
+  - &681 !ruby/object:Astro::Star
+    name: Zunban
+    star_type: K
+  - &684 !ruby/object:Astro::Star
+    name: z'Ad
+    star_type: M
+  - &685 !ruby/object:Astro::Star
+    name: Zunmyrsern XI
+    star_type: F
+  - &686 !ruby/object:Astro::Star
+    name: Zunea XV
+    star_type: M
+  - &687 !ruby/object:Astro::Star
+    name: Zunal
+    star_type: F
+  - &688 !ruby/object:Astro::Star
+    name: Zunlia
+    star_type: M
+  - &689 !ruby/object:Astro::Star
+    name: Zunjum Firyin Hiline
+    star_type: G
+  - &690 !ruby/object:Astro::Star
+    name: Zela
+    star_type: G
+  - &691 !ruby/object:Astro::Star
+    name: Zeldag Nikjon
+    star_type: G
+  - &692 !ruby/object:Astro::Star
+    name: Zelhon Comgam
+    star_type: M
+  - &693 !ruby/object:Astro::Star
+    name: Zelwat X
+    star_type: O
+  h:
+  - &694 !ruby/object:Astro::Star
+    name: Honhanphinwat
+    star_type: M
+  - &695 !ruby/object:Astro::Star
+    name: Hancomyinlus IV
+    star_type: F
+  - &696 !ruby/object:Astro::Star
+    name: Honnabryl Corbonkom
+    star_type: M
+  - &697 !ruby/object:Astro::Star
+    name: Honseltalrish
+    star_type: A
+  - &698 !ruby/object:Astro::Star
+    name: Hilgam XIII
+    star_type: G
+  - &699 !ruby/object:Astro::Star
+    name: Honcer Jakmyr
+    star_type: M
+  - &700 !ruby/object:Astro::Star
+    name: Honfir
+    star_type: B
+  - &701 !ruby/object:Astro::Star
+    name: Hanas
+    star_type: B
+  - &702 !ruby/object:Astro::Star
+    name: Honrur Kesaan
+    star_type: G
+  - &703 !ruby/object:Astro::Star
+    name: Hondur Rishmet
+    star_type: O
+  - &704 !ruby/object:Astro::Star
+    name: Hilar
+    star_type: F
+  - &705 !ruby/object:Astro::Star
+    name: Honi Ithjonlid
+    star_type: F
+  - &706 !ruby/object:Astro::Star
+    name: Honsav Erjak
+    star_type: F
+  - &707 !ruby/object:Astro::Star
+    name: Hilnalron
+    star_type: K
+  - &708 !ruby/object:Astro::Star
+    name: Hil-Goh VI
+    star_type: A
+  - &709 !ruby/object:Astro::Star
+    name: Honlan
+    star_type: O
+  - &710 !ruby/object:Astro::Star
+    name: Hilas Buran
+    star_type: F
+  - *15
+  - &711 !ruby/object:Astro::Star
+    name: Honnub
+    star_type: A
+  - &712 !ruby/object:Astro::Star
+    name: Hilarbris X
+    star_type: A
+  - &713 !ruby/object:Astro::Star
+    name: Hanron VII
+    star_type: A
+  - &714 !ruby/object:Astro::Star
+    name: Hontlo
+    star_type: G
+  - &715 !ruby/object:Astro::Star
+    name: Hangal VII
+    star_type: G
+  l:
+  - &716 !ruby/object:Astro::Star
+    name: Lidkom
+    star_type: M
+  - &717 !ruby/object:Astro::Star
+    name: Lidum
+    star_type: O
+  - &718 !ruby/object:Astro::Star
+    name: Lesdar VII
+    star_type: O
+  - &719 !ruby/object:Astro::Star
+    name: Luser
+    star_type: G
+    initial: false
+  - &720 !ruby/object:Astro::Star
+    name: Lan'Top XII
+    star_type: O
+  - &721 !ruby/object:Astro::Star
+    name: Lesu
+    star_type: O
+  - &722 !ruby/object:Astro::Star
+    name: Lidwer
+    star_type: F
+  - &723 !ruby/object:Astro::Star
+    name: Lesjakir
+    star_type: B
+  - &724 !ruby/object:Astro::Star
+    name: Lid-Nagbel
+    star_type: A
+  - &725 !ruby/object:Astro::Star
+    name: Lusnagjon Nabzoc
+    star_type: M
+  - &726 !ruby/object:Astro::Star
+    name: Lusdagmel
+    star_type: G
+  - &727 !ruby/object:Astro::Star
+    name: Lus-Met
+    star_type: F
+  - &728 !ruby/object:Astro::Star
+    name: Lesal
+    star_type: F
+  - &729 !ruby/object:Astro::Star
+    name: Lidea III
+    star_type: G
+  - &730 !ruby/object:Astro::Star
+    name: Lorhan
+    star_type: M
+  - &731 !ruby/object:Astro::Star
+    name: Leszocbar-Ond
+    star_type: M
+  - &732 !ruby/object:Astro::Star
+    name: Lesu Banend
+    star_type: G
+  - &733 !ruby/object:Astro::Star
+    name: Lornik Phinnatdar
+    star_type: F
+  - &734 !ruby/object:Astro::Star
+    name: Lan-Dag Besam
+    star_type: G
+  - &735 !ruby/object:Astro::Star
+    name: Lidas Jakjak
+    star_type: M
+  - &736 !ruby/object:Astro::Star
+    name: Lorsuibil VI
+    star_type: K
+  - &737 !ruby/object:Astro::Star
+    name: Lesnubphin
+    star_type: B
+  - &738 !ruby/object:Astro::Star
+    name: Liduk XIV
+    star_type: F
+  - &739 !ruby/object:Astro::Star
+    name: Lorbilhon
+    star_type: G
+  - &740 !ruby/object:Astro::Star
+    name: Lankal
+    star_type: F
+  - &741 !ruby/object:Astro::Star
+    name: Lustrosum Guigui
+    star_type: M
+  - *16
+  - &742 !ruby/object:Astro::Star
+    name: Leskur Guiam Sui'Bon
+    star_type: M
+  - &743 !ruby/object:Astro::Star
+    name: Lanmyr Honith
+    star_type: M
+  - &744 !ruby/object:Astro::Star
+    name: Lidnub VII
+    star_type: B
+  - &745 !ruby/object:Astro::Star
+    name: Lorondbril
+    star_type: O
+  - &746 !ruby/object:Astro::Star
+    name: Lesaan
+    star_type: K
+  - &747 !ruby/object:Astro::Star
+    name: Lusjak III
+    star_type: F
+  - &748 !ruby/object:Astro::Star
+    name: Lusmel XI
+    star_type: M
+  - &749 !ruby/object:Astro::Star
+    name: Langan
+    star_type: A
+  - &750 !ruby/object:Astro::Star
+    name: Lesan XV
+    star_type: B
+  - &751 !ruby/object:Astro::Star
+    name: Lessern VII
+    star_type: M
+  - &752 !ruby/object:Astro::Star
+    name: Lusgui Itharbris
+    star_type: O
+  - &753 !ruby/object:Astro::Star
+    name: Lidhan
+    star_type: F
+  - &754 !ruby/object:Astro::Star
+    name: Lorrishtis
+    star_type: M
+  - &755 !ruby/object:Astro::Star
+    name: Lanbar
+    star_type: M
+  v:
+  - &756 !ruby/object:Astro::Star
+    name: Val-Nab XII
+    star_type: A
+  - &757 !ruby/object:Astro::Star
+    name: Varris
+    star_type: G
+  - &758 !ruby/object:Astro::Star
+    name: Valbel Ronamzoc
+    star_type: O
+  - &759 !ruby/object:Astro::Star
+    name: Vartanior
+    star_type: A
+  - &760 !ruby/object:Astro::Star
+    name: Vartantlo Arbsav
+    star_type: O
+  - &761 !ruby/object:Astro::Star
+    name: Valarbnat Endas
+    star_type: B
+  - &762 !ruby/object:Astro::Star
+    name: Valnat
+    star_type: M
+  - &763 !ruby/object:Astro::Star
+    name: Varas V
+    star_type: A
+  - &764 !ruby/object:Astro::Star
+    name: Varrif Albon
+    star_type: M
+  - &765 !ruby/object:Astro::Star
+    name: Valar II
+    star_type: F
+  - *17
+  - &766 !ruby/object:Astro::Star
+    name: Varlesjum
+    star_type: F
+  - &767 !ruby/object:Astro::Star
+    name: Valkurcom Rin-Zoc
+    star_type: G
+  - &768 !ruby/object:Astro::Star
+    name: Valdan Gangli
+    star_type: M
+  - &769 !ruby/object:Astro::Star
+    name: Varniksenoo II
+    star_type: O
+  - &770 !ruby/object:Astro::Star
+    name: Valbur II
+    star_type: A
+  - &771 !ruby/object:Astro::Star
+    name: Valgui
+    star_type: G
+  - &772 !ruby/object:Astro::Star
+    name: Valea
+    star_type: A
+  i:
+  - &773 !ruby/object:Astro::Star
+    name: Ithu II
+    star_type: O
+  - &774 !ruby/object:Astro::Star
+    name: Isgam VI
+    star_type: O
+  - &775 !ruby/object:Astro::Star
+    name: Isdanjon
+    star_type: F
+  - &776 !ruby/object:Astro::Star
+    name: Ithcom
+    star_type: F
+  - &777 !ruby/object:Astro::Star
+    name: Isbur XII
+    star_type: O
+  - &778 !ruby/object:Astro::Star
+    name: Iscerval Darkom
+    star_type: B
+  - &779 !ruby/object:Astro::Star
+    name: Ithsav Cm-Cm
+    star_type: M
+  - &780 !ruby/object:Astro::Star
+    name: Ithaszoc
+    star_type: G
+  - &781 !ruby/object:Astro::Star
+    name: Isior Metkom
+    star_type: M
+  - &782 !ruby/object:Astro::Star
+    name: Ismimmel
+    star_type: G
+  - *18
+  - &783 !ruby/object:Astro::Star
+    name: Ithtis III
+    star_type: M
+  - &784 !ruby/object:Astro::Star
+    name: Ithbar II
+    star_type: F
+  - &785 !ruby/object:Astro::Star
+    name: Islesoo Ron-Yn
+    star_type: O
+  - &786 !ruby/object:Astro::Star
+    name: Isrifhan
+    star_type: F
+  - &787 !ruby/object:Astro::Star
+    name: Issumoth
+    star_type: M
+  - &788 !ruby/object:Astro::Star
+    name: Itherzel Nabcomsum
+    star_type: G
+  - &789 !ruby/object:Astro::Star
+    name: Ithtros Rifas
+    star_type: O
+  - &790 !ruby/object:Astro::Star
+    name: Iscomalad
+    star_type: F
+  - &791 !ruby/object:Astro::Star
+    name: Ithtop Comarblor
+    star_type: O
+  - &792 !ruby/object:Astro::Star
+    name: Isam
+    star_type: K
+  - &793 !ruby/object:Astro::Star
+    name: Ithbanan
+    star_type: G
+  - &794 !ruby/object:Astro::Star
+    name: Ithooine Ryl Ryltel
+    star_type: B
+  - &795 !ruby/object:Astro::Star
+    name: Ithtloam Fedbur
+    star_type: K
+  r:
+  - &796 !ruby/object:Astro::Star
+    name: Reryinum VI
+    star_type: F
+  - &797 !ruby/object:Astro::Star
+    name: Rur'Om Zoczun
+    star_type: O
+  - &798 !ruby/object:Astro::Star
+    name: Ronine Jumrismyr
+    star_type: O
+  - &799 !ruby/object:Astro::Star
+    name: Rutar Lorend
+    star_type: K
+  - &800 !ruby/object:Astro::Star
+    name: Ron-Naljak Cronbil
+    star_type: M
+  - &801 !ruby/object:Astro::Star
+    name: Riskes
+    star_type: F
+  - &802 !ruby/object:Astro::Star
+    name: Rylcor Lanjum
+    star_type: A
+  - &803 !ruby/object:Astro::Star
+    name: Ryldan
+    star_type: G
+  - &804 !ruby/object:Astro::Star
+    name: Raxen
+    star_type: F
+  - !ruby/object:Astro::Star
+    name: Rifnag
+    star_type: K
+  - &806 !ruby/object:Astro::Star
+    name: Rurdurval
+    star_type: G
+  - &807 !ruby/object:Astro::Star
+    name: Rishzun VII
+    star_type: F
+  - &808 !ruby/object:Astro::Star
+    name: Rintan II
+    star_type: G
+  - &809 !ruby/object:Astro::Star
+    name: Rylmyrhon Rutcerom
+    star_type: M
+  - &810 !ruby/object:Astro::Star
+    name: Ryllesom
+    star_type: A
+  - &811 !ruby/object:Astro::Star
+    name: Risrutrur Suikal
+    star_type: O
+  - &812 !ruby/object:Astro::Star
+    name: Rif'Mim Asbes
+    star_type: B
+  - &813 !ruby/object:Astro::Star
+    name: Rur-Bak XV
+    star_type: B
+  - &814 !ruby/object:Astro::Star
+    name: Rermyrris Komaan
+    star_type: M
+  - &805 !ruby/object:Astro::Star
+    name: Rifnag
+    star_type: K
+  - &815 !ruby/object:Astro::Star
+    name: Ruryi
+    star_type: K
+  - &816 !ruby/object:Astro::Star
+    name: Rutganalmbin
+    star_type: A
+  - &817 !ruby/object:Astro::Star
+    name: Risdanguikar
+    star_type: K
+  - &818 !ruby/object:Astro::Star
+    name: Raxjon
+    star_type: M
+  - &819 !ruby/object:Astro::Star
+    name: Rut-Ior Rishir
+    star_type: B
+  - &820 !ruby/object:Astro::Star
+    name: Raxkur
+    star_type: G
+  - &821 !ruby/object:Astro::Star
+    name: Rinfed Gohea
+    star_type: B
+  - &822 !ruby/object:Astro::Star
+    name: Raxphinburbur
+    star_type: A
+  - &823 !ruby/object:Astro::Star
+    name: Ryl-Lia
+    star_type: M
+  - &824 !ruby/object:Astro::Star
+    name: Rax-Luskalarb Arbtis
+    star_type: K
+  - &825 !ruby/object:Astro::Star
+    name: Rurarc X
+    star_type: A
+  - &826 !ruby/object:Astro::Star
+    name: Ris-Er Ithantbak
+    star_type: O
+  - &827 !ruby/object:Astro::Star
+    name: Risquelbar Sav-Kurgoh
+    star_type: O
+  - &828 !ruby/object:Astro::Star
+    name: Raxu Nag-Tis
+    star_type: B
+  - &829 !ruby/object:Astro::Star
+    name: Rin-Oo II
+    star_type: A
+  - &830 !ruby/object:Astro::Star
+    name: Rutsel
+    star_type: G
+  - &831 !ruby/object:Astro::Star
+    name: Rylooine
+    star_type: K
+  - &832 !ruby/object:Astro::Star
+    name: Rurkom
+    star_type: K
+  - &833 !ruby/object:Astro::Star
+    name: Rurondringamia
+    star_type: K
+  - &834 !ruby/object:Astro::Star
+    name: Rutalm VII
+    star_type: F
+  - &835 !ruby/object:Astro::Star
+    name: Risfir
+    star_type: K
+  - &836 !ruby/object:Astro::Star
+    name: Rishmimyin
+    star_type: O
+  - &837 !ruby/object:Astro::Star
+    name: Rut-Dur
+    star_type: K
+  - &838 !ruby/object:Astro::Star
+    name: Raxtlo Gangli
+    star_type: A
+  - &839 !ruby/object:Astro::Star
+    name: Rersernkar
+    star_type: G
+  - &840 !ruby/object:Astro::Star
+    name: Rifkom
+    star_type: O
+  - &841 !ruby/object:Astro::Star
+    name: Ruttlo XII
+    star_type: G
+  - &842 !ruby/object:Astro::Star
+    name: Rylrif Islusia
+    star_type: B
+  - &843 !ruby/object:Astro::Star
+    name: Rifsum VII
+    star_type: K
+  - &844 !ruby/object:Astro::Star
+    name: Raxendwer
+    star_type: A
+  - &845 !ruby/object:Astro::Star
+    name: Raxcmdur X
+    star_type: K
+  - &846 !ruby/object:Astro::Star
+    name: Rylbaknik
+    star_type: K
+  - &847 !ruby/object:Astro::Star
+    name: Rur'Karn
+    star_type: B
+  - &848 !ruby/object:Astro::Star
+    name: Rona
+    star_type: F
+  - &849 !ruby/object:Astro::Star
+    name: Rerdag Mimtros
+    star_type: G
+  - &850 !ruby/object:Astro::Star
+    name: Rurallan
+    star_type: K
+  - &851 !ruby/object:Astro::Star
+    name: Rerlia Belondwer
+    star_type: M
+  - &852 !ruby/object:Astro::Star
+    name: Rinior
+    star_type: M
+  - &853 !ruby/object:Astro::Star
+    name: Rifas V
+    star_type: G
+  - &854 !ruby/object:Astro::Star
+    name: Ronas
+    star_type: K
+  - &855 !ruby/object:Astro::Star
+    name: Rinpin'Gan
+    star_type: G
+  - &856 !ruby/object:Astro::Star
+    name: Rylis
+    star_type: B
+  - &857 !ruby/object:Astro::Star
+    name: Rut-Gal Lornatmyrjum
+    star_type: O
+  - &858 !ruby/object:Astro::Star
+    name: Rylnatend
+    star_type: F
+  - *19
+  - &859 !ruby/object:Astro::Star
+    name: Rurglo Yinsum
+    star_type: G
+  - &860 !ruby/object:Astro::Star
+    name: Rurbril X
+    star_type: M
+  - &861 !ruby/object:Astro::Star
+    name: Risin IX
+    star_type: M
+  - &862 !ruby/object:Astro::Star
+    name: Rylasbil
+    star_type: A
+  - &863 !ruby/object:Astro::Star
+    name: Rylhonmyrdagam
+    star_type: A
+  - &864 !ruby/object:Astro::Star
+    name: Rinkur
+    star_type: M
+  - &865 !ruby/object:Astro::Star
+    name: Rurgess III
+    star_type: F
+  - &866 !ruby/object:Astro::Star
+    name: Rifrifas Komnubarb
+    star_type: M
+  - &867 !ruby/object:Astro::Star
+    name: Rontlo
+    star_type: F
+  - &868 !ruby/object:Astro::Star
+    name: Ruryn
+    star_type: F
+  s:
+  - &869 !ruby/object:Astro::Star
+    name: Savsum
+    star_type: B
+  - &870 !ruby/object:Astro::Star
+    name: Suicron X
+    star_type: A
+  - &871 !ruby/object:Astro::Star
+    name: Sel-Ir
+    star_type: K
+  - &872 !ruby/object:Astro::Star
+    name: Suikuramnag
+    star_type: A
+  - &873 !ruby/object:Astro::Star
+    name: Sencer Antris
+    star_type: F
+  - &874 !ruby/object:Astro::Star
+    name: Sumtoprish Hilgess
+    star_type: M
+  - &875 !ruby/object:Astro::Star
+    name: Sumbin
+    star_type: K
+  - &876 !ruby/object:Astro::Star
+    name: Savjum Honmyr
+    star_type: G
+  - &877 !ruby/object:Astro::Star
+    name: Sumtangamnab XII
+    star_type: O
+  - &878 !ruby/object:Astro::Star
+    name: Seni
+    star_type: G
+  - &879 !ruby/object:Astro::Star
+    name: Sernnab Nagdag
+    star_type: K
+  - &880 !ruby/object:Astro::Star
+    name: Senzoc
+    star_type: B
+  - &881 !ruby/object:Astro::Star
+    name: Sernrurkar Isnagbin
+    star_type: O
+  - &882 !ruby/object:Astro::Star
+    name: Sernad Lusbur
+    star_type: B
+  - &883 !ruby/object:Astro::Star
+    name: Sumwat Sernbankarvar
+    star_type: F
+  - &884 !ruby/object:Astro::Star
+    name: Selith
+    star_type: G
+  - &885 !ruby/object:Astro::Star
+    name: Selquel
+    star_type: A
+  - &886 !ruby/object:Astro::Star
+    name: Sel'Rut
+    star_type: K
+  - &887 !ruby/object:Astro::Star
+    name: Savglo
+    star_type: G
+    initial: false
+  - &888 !ruby/object:Astro::Star
+    name: Senbon
+    star_type: F
+  - &889 !ruby/object:Astro::Star
+    name: Senringess
+    star_type: M
+  - &890 !ruby/object:Astro::Star
+    name: Sel'Is X
+    star_type: F
+  - &891 !ruby/object:Astro::Star
+    name: Senpin XIII
+    star_type: A
+  - &892 !ruby/object:Astro::Star
+    name: Selyi Ondfir
+    star_type: O
+  - &893 !ruby/object:Astro::Star
+    name: Sav-Umcomgess
+    star_type: F
+  - &894 !ruby/object:Astro::Star
+    name: Serngan
+    star_type: G
+  - &895 !ruby/object:Astro::Star
+    name: Sernyinwer
+    star_type: K
+  - &896 !ruby/object:Astro::Star
+    name: Sumom
+    star_type: O
+  - &897 !ruby/object:Astro::Star
+    name: Sel'Cerkur XII
+    star_type: M
+  - &898 !ruby/object:Astro::Star
+    name: Savlan
+    star_type: G
+  - &899 !ruby/object:Astro::Star
+    name: Sumraxas
+    star_type: M
+  - *20
+  - &900 !ruby/object:Astro::Star
+    name: Sumalmfedbakris
+    star_type: O
+  - &901 !ruby/object:Astro::Star
+    name: Selnag
+    star_type: A
+  - &902 !ruby/object:Astro::Star
+    name: Sernsern Karrut
+    star_type: F
+  - &903 !ruby/object:Astro::Star
+    name: Sern'Cm IV
+    star_type: A
+  - &904 !ruby/object:Astro::Star
+    name: Senam
+    star_type: A
+  - &905 !ruby/object:Astro::Star
+    name: Suiis
+    star_type: M
+  - &906 !ruby/object:Astro::Star
+    name: Selarbgan
+    star_type: G
+  - &907 !ruby/object:Astro::Star
+    name: Sumgessgli XI
+    star_type: M
+  - &908 !ruby/object:Astro::Star
+    name: Selas
+    star_type: G
+  - &909 !ruby/object:Astro::Star
+    name: Sav-Mim Corglihan
+    star_type: A
+  - &910 !ruby/object:Astro::Star
+    name: Sumjum
+    star_type: K
+  - &911 !ruby/object:Astro::Star
+    name: Sumtop III
+    star_type: O
+  - &912 !ruby/object:Astro::Star
+    name: Sumnag Tel z'Lus
+    star_type: M
+  - &913 !ruby/object:Astro::Star
+    name: Savrer Besas
+    star_type: O
+  - &914 !ruby/object:Astro::Star
+    name: Sernbel
+    star_type: A
+  - &915 !ruby/object:Astro::Star
+    name: Savlan Nubuk
+    star_type: O
+  - &916 !ruby/object:Astro::Star
+    name: Senraxgli
+    star_type: M
+  u:
+  - &917 !ruby/object:Astro::Star
+    name: Umastan XIII
+    star_type: B
+  - *21
+  - &918 !ruby/object:Astro::Star
+    name: Umar X
+    star_type: A
+  - &919 !ruby/object:Astro::Star
+    name: Um'Dan V
+    star_type: B
+  - &920 !ruby/object:Astro::Star
+    name: Umhancomaan
+    star_type: M
+  - &921 !ruby/object:Astro::Star
+    name: Umrif Durglo Tiskes
+    star_type: B
+  - &922 !ruby/object:Astro::Star
+    name: Umaan Jakarc
+    star_type: K
+  - &923 !ruby/object:Astro::Star
+    name: Umarcfed
+    star_type: B
+  - &924 !ruby/object:Astro::Star
+    name: Umu Ith'Nabsen
+    star_type: F
+  - &925 !ruby/object:Astro::Star
+    name: Umkarnrifaan
+    star_type: K
+  e:
+  - &926 !ruby/object:Astro::Star
+    name: Enasris
+    star_type: A
+  - &927 !ruby/object:Astro::Star
+    name: Erkaris
+    star_type: F
+  - &928 !ruby/object:Astro::Star
+    name: Enban
+    star_type: B
+  - &929 !ruby/object:Astro::Star
+    name: Enlia Gam-Ir
+    star_type: F
+  - &930 !ruby/object:Astro::Star
+    name: Enddur Gohniken
+    star_type: M
+  - &931 !ruby/object:Astro::Star
+    name: Endglihon
+    star_type: M
+  - &932 !ruby/object:Astro::Star
+    name: Enendcron
+    star_type: K
+  - &933 !ruby/object:Astro::Star
+    name: Endnikfirbancor
+    star_type: K
+  - &934 !ruby/object:Astro::Star
+    name: Er-Is Beskur
+    star_type: B
+  - &935 !ruby/object:Astro::Star
+    name: Enyi
+    star_type: F
+  - &936 !ruby/object:Astro::Star
+    name: Enderjonas
+    star_type: K
+  - *22
+  - &937 !ruby/object:Astro::Star
+    name: Ennik Rishgoh
+    star_type: G
+  - &938 !ruby/object:Astro::Star
+    name: Endnagwat
+    star_type: G
+  - &939 !ruby/object:Astro::Star
+    name: Ercorbon
+    star_type: O
+  - &940 !ruby/object:Astro::Star
+    name: Erphin
+    star_type: O
+  - &941 !ruby/object:Astro::Star
+    name: Ermim Dartis
+    star_type: F
+  - &942 !ruby/object:Astro::Star
+    name: Enddaguk
+    star_type: A
+  - &943 !ruby/object:Astro::Star
+    name: Enarb
+    star_type: F
+  - &944 !ruby/object:Astro::Star
+    name: Enia XV
+    star_type: F
+  - &945 !ruby/object:Astro::Star
+    name: Endu
+    star_type: B
+  - &946 !ruby/object:Astro::Star
+    name: Enbin-As Eris
+    star_type: F
+  - &947 !ruby/object:Astro::Star
+    name: Enom Binnal Valsern
+    star_type: O
+  - &948 !ruby/object:Astro::Star
+    name: Endalm Quelyn
+    star_type: G
+  - &949 !ruby/object:Astro::Star
+    name: Erzelvar
+    star_type: M
+  j:
+  - &950 !ruby/object:Astro::Star
+    name: Jumjakis XII
+    star_type: G
+  - &951 !ruby/object:Astro::Star
+    name: Jondur
+    star_type: A
+  - &952 !ruby/object:Astro::Star
+    name: Jakior c'Gamlid
+    star_type: B
+  - &953 !ruby/object:Astro::Star
+    name: Jakis
+    star_type: O
+  - &954 !ruby/object:Astro::Star
+    name: Jakkes
+    star_type: A
+  - *23
+  - &955 !ruby/object:Astro::Star
+    name: Jakalgoh
+    star_type: K
+  - &956 !ruby/object:Astro::Star
+    name: Jonis IX
+    star_type: G
+  - &957 !ruby/object:Astro::Star
+    name: Jumzun Komtel Arb'Er
+    star_type: F
+  - &958 !ruby/object:Astro::Star
+    name: Jumban XIV
+    star_type: F
+  - &959 !ruby/object:Astro::Star
+    name: Jaktis
+    star_type: G
+  - &960 !ruby/object:Astro::Star
+    name: Jumlid
+    star_type: F
+  - &961 !ruby/object:Astro::Star
+    name: Jum-Yi
+    star_type: B
+  - &962 !ruby/object:Astro::Star
+    name: Jontal II
+    star_type: B
+  - &963 !ruby/object:Astro::Star
+    name: Jumdag t'Alm
+    star_type: M
+  - &964 !ruby/object:Astro::Star
+    name: Jaksavarc
+    star_type: G
+  - &965 !ruby/object:Astro::Star
+    name: Jumlesu
+    star_type: K
+  - &966 !ruby/object:Astro::Star
+    name: Jaknab XII
+    star_type: B
+  - &967 !ruby/object:Astro::Star
+    name: Jakasgliaan
+    star_type: O
+  f:
+  - &968 !ruby/object:Astro::Star
+    name: Fedam
+    star_type: M
+  - &969 !ruby/object:Astro::Star
+    name: Firnat VII
+    star_type: A
+  - &970 !ruby/object:Astro::Star
+    name: Firmim Istros
+    star_type: F
+  - &971 !ruby/object:Astro::Star
+    name: Fedanom X
+    star_type: G
+  - *24
+  - &972 !ruby/object:Astro::Star
+    name: Firjonfedtlo
+    star_type: K
+  - &973 !ruby/object:Astro::Star
+    name: Fir-Pin
+    star_type: A
+  - &974 !ruby/object:Astro::Star
+    name: Firdanooine
+    star_type: B
+  - &975 !ruby/object:Astro::Star
+    name: Firkarn Durron-Jak
+    star_type: G
+  - &976 !ruby/object:Astro::Star
+    name: Firfednag
+    star_type: M
+  - &977 !ruby/object:Astro::Star
+    name: Fedom
+    star_type: G
+  - &978 !ruby/object:Astro::Star
+    name: Fedsel Rurzelbin
+    star_type: O
+  - &979 !ruby/object:Astro::Star
+    name: Firlorzel VI
+    star_type: G
+  - &980 !ruby/object:Astro::Star
+    name: Fedgal
+    star_type: M
+  - &981 !ruby/object:Astro::Star
+    name: Fedfedtanbil
+    star_type: K
+  y:
+  - &982 !ruby/object:Astro::Star
+    name: Yinmyr Naboo
+    star_type: M
+  - &983 !ruby/object:Astro::Star
+    name: Yinglogui Nublor
+    star_type: M
+  - &984 !ruby/object:Astro::Star
+    name: Yinenan
+    star_type: M
+  - *25
+  - &985 !ruby/object:Astro::Star
+    name: Yinsavgli
+    star_type: F
+  - &986 !ruby/object:Astro::Star
+    name: Yinbar Lidtros-Ith
+    star_type: K
+by_name:
+  Arb-Bil Crondar: *26
+  Arcia XIV: *27
+  Antjakkes Ganzun: *28
+  Arbbil VII: *29
+  Arcend: *30
+  Antbel XIV: *31
+  Ak Darrif: *32
+  Anerron: *33
+  Arbfir XIV: *34
+  Almtros Gamron: *35
+  a'Dur XIII: *36
+  Arbnag: *37
+  Arcvar XIV: *38
+  Arcnat: *39
+  Arban: *40
+  Ak Endrif: *41
+  Arbu VI: *42
+  Ak Yinnag: *43
+  Ak VII: *44
+  Alis: *45
+  Antrisnikseltan: *46
+  Arceer Lorsen: *47
+  Antmel Zelron: *48
+  Annal Werkar: *49
+  Ak Binumjum: *50
+  Arbzeljak: *51
+  Arbgui Tlokur: *52
+  Antan: *53
+  Amaan VII: *54
+  Arbmel IV: *55
+  Arcrinhan IV: *56
+  Anfirbril-Bak: *57
+  Askar Telamtis: *58
+  Ak Karuk: *59
+  Ak II: *60
+  Amtis: *61
+  Antalant: *62
+  Arbgui Itharba: *63
+  Altop VII: *64
+  Antbon: *65
+  Arbithtal: *66
+  Almphin IV: *67
+  Amquelbril Kurmimom: *68
+  Antam Ennab: *69
+  Adyi Lussel: *70
+  Alino IV: *1
+  Ak Natdur: *71
+  Antyi: *72
+  Antgamnatdur IX: *73
+  Adfed XI: *74
+  Antsern Glodur: *75
+  Ak Teltalkarn: *76
+  Arcval Senond: *77
+  Antkurine Phintanine: *78
+  Ani VI: *79
+  Almgalwat: *80
+  Anrinfed XIII: *81
+  Ak Nub-Suicron: *82
+  Ambiltan: *83
+  Alm-Tros II: *84
+  Alman Enarb: *85
+  Almfedwer Kalpinas: *86
+  Arbalm: *87
+  Arbas Bantis: *88
+  Antoo: *89
+  Antbar: *90
+  Asdur Val Hansel: *91
+  Annatalm Almbilend: *92
+  Asbin IX: *93
+  Alnik: *94
+  Adtal V: *95
+  Altisgoh Lor-Is: *96
+  Anjak: *97
+  Ak Nagooine: *98
+  Arbtan III: *99
+  Ak z'Rer: *100
+  Arbryl Talsel: *101
+  Ak Durhonbes: *102
+  Ak Jumbon: *103
+  Anbinfir: *104
+  Arbvartelwer: *105
+  Anten Asnub: *106
+  Besnubmelond: *107
+  Brilkes Mimzoc: *108
+  Banarb: *109
+  Ban-Firnat: *110
+  Belcom Raxyin: *111
+  Bilfirsui Zelfirkarn: *112
+  Bari: *113
+  Bannab: *114
+  Banine: *115
+  Beleer Watjum: *116
+  Besbrildur: *117
+  Bakmel Gam-Nab: *118
+  Besgam XV: *119
+  Beshanmelis III: *120
+  Bilior Rutad: *121
+  Bes'Bin XIII: *122
+  Burkom: *123
+  Bonjak: *124
+  Binbinir Mettis: *125
+  Bartal: *126
+  Burrer: *127
+  Bantop: *128
+  b'Gess Guigal: *129
+  Beljak: *130
+  Ban-Aan: *131
+  Binsummyr: *132
+  Bilvar: *133
+  Bindur VI: *134
+  Brilselas: *135
+  Bilkur: *136
+  Bonga Ishon: *2
+  Beslus Suiantdar: *137
+  Banmyrgam Omu: *138
+  Bonend Melgli: *139
+  Barkom VII: *140
+  Bonkomjon Asnab: *141
+  Bonrurgam: *142
+  Binris: *143
+  Burdur Zunsavdar: *144
+  Besondtan VI: *145
+  Besadsel IX: *146
+  Binkom: *147
+  Biltan XI: *148
+  Burkes IX: *149
+  Bakkarn: *150
+  Binnik Lidgoh: *151
+  Banhilas: *152
+  Bonas VII: *153
+  Barburis: *154
+  Binea: *155
+  Buri Darquelaan: *156
+  Bel-Gal VI: *157
+  Bilsav XV: *158
+  Burkesea X: *159
+  Bursav: *160
+  Bonphin: *161
+  Bonbiloth Lusuk: *162
+  Bilendvalfirhil: *163
+  Belrur Gessdur: *164
+  Banas: *165
+  Belpinas: *166
+  Boncm XI: *167
+  Banad Savtal-Ine: *168
+  Barsui III: *169
+  Banoo Anter: *170
+  Besnikkalalm: *171
+  Biline Darlus: *172
+  Bon-Cer V: *173
+  Bonrut Natgal: *174
+  Bargli IX: *175
+  Bil'Kom XIV: *176
+  Bakgal: *177
+  Bakgui XIII: *178
+  Bilumeer Zunbel: *179
+  Buria Sel Rurgam: *180
+  Brilum Savpin: *181
+  Bakum VII: *182
+  Bilarc: *183
+  Baral: *184
+  Barteltel Gessjum: *185
+  Binnabwer: *186
+  Baksum: *187
+  Burlantal Telarb: *188
+  Brildar Bilbar: *189
+  Bincersuibar XIV: *190
+  Bescomea: *191
+  Binhon Pinwat: *192
+  Binron: *193
+  Banbril Leslor: *194
+  Bini IX: *195
+  Burrut Topal: *196
+  Comi: *197
+  Cronphinrin: *198
+  Cerkaltop: *3
+  Cerlia XI: *199
+  Cmdan: *200
+  Com'Mel VI: *201
+  Cmyi IV: *202
+  Comnag Lidwerar: *203
+  Comnub: *204
+  Cm'Lid: *205
+  c'Sen XII: *206
+  Cerriskar: *207
+  Corban XII: *208
+  Corrif XIII: *209
+  Cronron X: *210
+  Comdar: *211
+  Comdag Erkom Gamyi: *212
+  Cronzocluscomwer: *213
+  Com-Rif IV: *214
+  c'Sen VII: *215
+  Corquel Yindag: *216
+  Ceryin Telcor: *217
+  Cor'Dar X: *218
+  Cersavooine Zelmetu: *219
+  Coryi XI: *220
+  Cmbrillor Durriflid: *221
+  Comtaler Kesis: *222
+  Cornag: *223
+  Crongli: *224
+  Corteltloasan: *225
+  Corcergal: *226
+  Cronrax Amith: *227
+  Cmrer Trosdur-Dur: *228
+  Cmlan: *229
+  Comhilarc: *230
+  Corkal IX: *231
+  Ceren XII: *232
+  Cerryl: *233
+  Cron-Oo: *234
+  Cmdur Hanen: *235
+  Cernal Tloris: *236
+  Cronnagen: *237
+  Corgam IX: *238
+  Cmjak Gligli: *239
+  Comkarrer-An: *240
+  Cronas Adum: *241
+  Cmtrosnat: *242
+  Cronrutas Kurteltros: *243
+  Corjon: *244
+  Dagcorkarn: *245
+  Dagwer: *246
+  Darvarbanarc: *247
+  Danar XIV: *248
+  Dagfir: *249
+  Dagrur-Cm: *250
+  Dur'Uk Endnub: *251
+  Dagad XV: *252
+  Daglorkomkom: *253
+  Dur-Dur: *254
+  Dagyi X: *255
+  Dagyintlozoc: *256
+  Danquel: *257
+  Dandarooine II: *258
+  d'Var: *259
+  Daggui Phinban: *260
+  Danar VII: *261
+  Duri t'Rur: *262
+  Dagjon Rutmelsui: *263
+  Durnal Yinkur: *264
+  Dangohcmrur: *265
+  Duren: *266
+  Dagmetal: *267
+  Duras: *268
+  Daruk Erkar: *269
+  Dagumsernkarn: *270
+  Danas: *271
+  Dagquel: *272
+  Durfedyn: *273
+  Danzel: *274
+  Dar'Uk VI: *275
+  Darkur: *276
+  Dangam: *277
+  Duralm XV: *278
+  Danphin Binryl: *279
+  d'Sen Karban: *280
+  Durbakalm: *281
+  Durgli IV: *282
+  Durlan: *283
+  Danfed: *4
+  Dantis IV: *284
+  Darantzocban: *285
+  Daram: *286
+  Gessior: *287
+  Gohburan IX: *288
+  Goh-I: *289
+  Guikarn Zocquel: *290
+  Galwat-Gal: *291
+  Guiom XIV: *292
+  Guicm XII: *293
+  Gan-Tis Rishsav: *5
+  Gliin Valsui: *294
+  Ganzocad XV: *295
+  Gohgess VII: *296
+  Gessles IX: *297
+  Galtal Tanhan: *298
+  Gesszunkalryl: *299
+  Gessles III: *300
+  Guitrosas Komtlo: *301
+  Gamnatrersernis: *302
+  Gamzocsav: *303
+  Ganen Ronfed: *304
+  Goharcjon: *305
+  Ganmim: *306
+  Ganbril Erdurkom: *307
+  Gamsui Nal Jumval: *308
+  Glinub Zunant: *309
+  Gesslan: *310
+  Gal-Bar: *311
+  Guitel: *312
+  Gohcerer III: *313
+  Galzocvar: *314
+  Gloaan: *315
+  Glo-Arb: *316
+  Guiristel: *317
+  Gamarb: *318
+  Guidar V: *319
+  Gamis: *320
+  Gancor Jumfed: *321
+  Guikur Rerbon: *322
+  Gloondend Hanasgoh: *323
+  Gohgam: *324
+  Gamron Guilia: *325
+  Gliyinas: *326
+  Gohgess VI: *327
+  Glimet XIII: *328
+  Gloia Savdur: *329
+  Gloyn: *330
+  Glodur IV: *331
+  Gamdar Pin Cron-Gam: *332
+  Gess'Sui: *333
+  Goh-Yn Nikmet: *334
+  Ganbancm VII: *335
+  Gallan III: *336
+  Gliryl: *337
+  Gessum Gligan: *338
+  Gohsavrurrish Rifphin: *339
+  Gessend Dursenarb: *340
+  Galuk: *341
+  Gessmet Guijon: *342
+  Gal-Yn Bakfir: *343
+  Glotros: *344
+  Guidan Lusyn: *345
+  Gohsav Tistanris: *346
+  Gessbrilguitlo: *347
+  Guiriskal: *348
+  Guihan: *349
+  Glolanbarbak V: *350
+  Gamnab: *351
+  Gan-Talkes XIII: *352
+  Ganyn Lanalmimtlo: *353
+  Guimet: *354
+  Gamnalkarpin: *355
+  Kes-Kes: *356
+  Kalnat: *357
+  Kurlidad: *358
+  Karlid Cmtal: *359
+  Kardur III: *360
+  Kar-Jum: *361
+  Kor XIV: *362
+  Kor Rylsav: *363
+  Keskarnnab Natrin: *364
+  Komis: *365
+  Kor Galond: *366
+  Kesphin VII: *367
+  Kalrut IV: *368
+  Komjum: *369
+  Kurtislesvartan: *370
+  Keswater: *371
+  Kurgessmim: *372
+  Kor Besmel: *373
+  Kor Kareer: *374
+  Karn-Glo Erad: *375
+  Kor VII: *376
+  Kurbil-Bil: *377
+  Kurkarn II: *378
+  Kor Guifirtros: *379
+  Komkar Rinmetsern: *380
+  Karcor: *381
+  Kor Tansernithdur: *382
+  Komerir Gohsui: *383
+  Kor Galhonooine: *384
+  Karmimmet Fir'Raxi: *385
+  Kesbarcor: *386
+  Kesval: *387
+  Kesris: *388
+  Kesjak Nikum: *389
+  Kor Kaltis: *390
+  Komal: *391
+  Kaltanrif: *392
+  Keskom Buralm: *393
+  Karnanantyi: *394
+  Kor Melrishdurron: *395
+  Kor Gessdagkesrax: *396
+  Komkur: *397
+  Kalgui Askarnhon: *398
+  Kor Arbcom: *399
+  Kesend VI: *400
+  Karmel Alrin: *401
+  Kor Endmimgal: *402
+  Kesnik: *403
+  Kor Tloancom: *404
+  Kesas: *405
+  Kor Tiser: *406
+  Kurith Almyin: *6
+  k'Tis: *407
+  Kur'Savryl XIV: *408
+  Kuryin Risa: *409
+  k'Arbamcronam: *410
+  Kurlan-Ant II: *411
+  k'Hil III: *412
+  Kal-Phin: *413
+  Kalum d'Gan: *414
+  Kombur IV: *415
+  Kor Met-Lan: *416
+  Kor Phinal: *417
+  Kor Lesnag-Sern: *418
+  Karnalmlusis XIV: *419
+  Myrior XIII: *420
+  Mimtros XV: *421
+  Metgui: *422
+  Metdan: *7
+  Myryi: *423
+  Melcomis: *424
+  Mim-Kom: *425
+  Metuk Lusoo: *426
+  Melrax Natmyr: *427
+  Myrmimnag: *428
+  Myrnab: *429
+  Mimglironpinia: *430
+  Mimkal Antbak: *431
+  Metia: *432
+  Metcmither V: *433
+  Metith: *434
+  Metzel: *435
+  Melend III: *436
+  Metaan V: *437
+  Metquel IX: *438
+  Myrnag: *439
+  Mimtlo: *440
+  Meltop: *441
+  Melbes: *442
+  Myrtlo X: *443
+  Metnatquel: *444
+  Mimcor Cronrurdar: *445
+  Melin: *446
+  Mimyi: *447
+  Mimpin Umooine: *448
+  Myrhonas: *449
+  Metine Arckal: *450
+  m'Tan: *451
+  Metjondar Topir: *452
+  Natkom Danend: *453
+  Nar Lor-Bin: *454
+  Nar Rinant: *455
+  Nallus: *456
+  Nager XV: *457
+  Nabrifrur: *458
+  Naldagant Amtel: *459
+  Nar Valdagsav: *460
+  Nabhan: *8
+  Nar Omgli: *461
+  Nageer Mimtop: *462
+  Nar XV: *463
+  Nar Lorkurgangan: *464
+  Nikmetkes: *465
+  Nubgohlan: *466
+  Nar Ondea: *467
+  Nikdur II: *468
+  Nat'Tanoth: *469
+  Nar Weralmdag: *470
+  Nar Ithgohlus: *471
+  Nikbesis: *472
+  Nubom X: *473
+  Nar Honkalgal: *474
+  Nikondsel: *475
+  Nabval Zelles: *476
+  Natdur XIII: *477
+  Nagbinmet Karend-Rut: *478
+  Nal-Asbesarbrur: *479
+  n'Jakbin: *480
+  Nub-Arc Umhon: *481
+  Nar II: *482
+  Nubrylhon Kesbur: *483
+  Nar Antyi: *484
+  Nar Arbkarrif: *485
+  Nubkom IV: *486
+  Nagum Cronmelyn: *487
+  Nalal: *488
+  Nubzel II: *489
+  Nabrishkarn: *490
+  Nat-Nabval: *491
+  Nikval'Dan: *492
+  Nabtan'Kur: *493
+  Nubpinea: *494
+  Nagrin III: *495
+  Niker-Tros VII: *496
+  Nar Jakbur: *497
+  Nabamhonhan: *498
+  Nar Alrur-Bel: *499
+  Naldar Adbar: *500
+  Nar Ris'Tis: *501
+  Nablesval: *502
+  Niklia: *503
+  Nab-Tros VII: *504
+  Natcor II: *505
+  Nar Gliar: *506
+  Nar Suigal: *507
+  Nikjum: *508
+  Nubbril: *509
+  Nar Bilbar: *510
+  Nar Besfedu: *511
+  Natarb: *512
+  Nubbin Meti: *513
+  Nalgoh X: *514
+  Natarcsuitop: *515
+  Nagarcan VII: *516
+  Nubbarcergal: *517
+  Nikbinbon: *518
+  Nal-Aan XV: *519
+  Naloth Gan'Arb: *520
+  Naggli: *521
+  Nabsuicor: *522
+  Nalond Yinanis: *523
+  Nar Ristros: *524
+  Nar Phinkarvar: *525
+  Nubdarcm VI: *526
+  Nubzun: *527
+  Nikbur: *528
+  Nabcronbanhilron: *529
+  Nikas Fed Serntel: *530
+  Ord Globrillor: *531
+  Ondal V: *532
+  Omnagyn XV: *533
+  Omphin: *534
+  Omhan Besgui: *535
+  Omtlo: *536
+  Ord VII: *537
+  Ondval III: *538
+  Omtlo-Binglo: *539
+  Ord Werbonas: *540
+  Ondia: *541
+  Omant: *542
+  Ord Brillus: *543
+  Omwat Joncerglo: *544
+  Ord Billia: *545
+  Ord Rifumnikgan: *546
+  Ord Antumyin: *547
+  Ord Suiles: *548
+  Ondglo g'Quelam: *549
+  Ord Antkes: *550
+  Ord III: *551
+  Omsen VI: *552
+  Ondasryl: *553
+  Ord Comnalmel: *554
+  Ondmyrjon: *555
+  Ondwer Nagalend: *556
+  Ord Risom: *557
+  Ombilmel Myrphinir: *558
+  Ondia Myrend: *559
+  o'Nab: *560
+  Ondyin: *561
+  Omzun: *9
+  Omkur Seluk: *562
+  Omad Pincm: *563
+  Ondbak Arcbon: *564
+  Omsav VII: *565
+  Ord Ondbonzoc: *566
+  Om'Al Bel-Les: *567
+  Ondtros IV: *568
+  Om-Hanir XV: *569
+  Omzunsui Brilarc: *570
+  Ondoo Belum: *571
+  Ord Tanan: *572
+  Ord Tlorish: *573
+  Ord Zuntop: *574
+  p'Rif Ris-Met: *575
+  Phinval q'Han: *576
+  Pinbanom XIV: *577
+  Phinin: *578
+  Pinen Ithlid: *579
+  Phineer Werooine: *580
+  Pinomdur Bursel: *581
+  Phinkom: *582
+  Phinjum'Com: *10
+  Phinmim: *583
+  Phinraxwat: *584
+  Pinum V: *585
+  Phinrish: *586
+  Phincron: *587
+  q'Nat: *588
+  q'Mel X: *589
+  Quelles Rersav: *590
+  Quelpin Banum: *591
+  Quelyn VII: *11
+  Quelpinmet Rutnab: *592
+  q'Rer XIV: *593
+  Tlopintis: *594
+  Telarbsav: *595
+  Trosgoh Arblia: *596
+  Tan-Met: *597
+  Topkomzoc: *598
+  Taldar Natrish: *599
+  Tanar III: *600
+  Tlobur: *601
+  Tel-Tros VII: *602
+  Telsern III: *603
+  Talraxlor Binlus: *604
+  Talumkom: *605
+  Trosrax XV: *606
+  Topar: *12
+  Troslidbar: *607
+  Teloth XIV: *608
+  Tiseer XII: *609
+  Tal-Is XIV: *610
+  Telnabas Ronoth: *611
+  Tisgoh: *612
+  Topooine XIII: *613
+  Trosbesmyrphin: *614
+  Trosarb Er-Is: *615
+  Telmim IV: *616
+  Tlozelpin: *617
+  Tis'End Nubas: *618
+  Telnubdur XIII: *619
+  Tanyi: *620
+  Tal-Enlan V: *621
+  Tankomtis: *622
+  Tistisennubum: *623
+  Tiskomsui: *624
+  Taltlo III: *625
+  Tros-Alguihan: *626
+  Trosrisquel Lanithkes: *627
+  Tanhan: *628
+  Tlobarea Serndag: *629
+  Tisgan: *630
+  Telbindan III: *631
+  Trosyn Guizoc: *632
+  Talhon II: *633
+  Tlosen XII: *634
+  Top'Bur: *635
+  Talad-Lid: *636
+  Tlomim: *637
+  Tiskarn Hilooine: *638
+  Top-Var Pinban: *639
+  Talarbjon: *640
+  Talas Zocjon: *641
+  Trostoprutis: *642
+  Talant Niksum: *643
+  Tisnabtel: *644
+  Telrontelmet Enine: *645
+  Top-Bargam X: *646
+  Tanron IV: *647
+  Talhon Tal Hantel: *648
+  Telend Bila: *649
+  Tan-U: *650
+  Telrin IX: *651
+  Tal-Fed X: *652
+  Talcer Adarc: *653
+  Telfedcm Zelhil: *654
+  Troshil: *655
+  Tlogam: *656
+  Tisnik Arcjum: *657
+  Weras: *658
+  Watbak: *659
+  Watmelsui-As XV: *660
+  Wersuivalior: *661
+  Wermet Yintros: *662
+  Watbanjum: *663
+  Werior Isnik: *664
+  Werbakir: *665
+  Watertan: *666
+  Weryintanglo: *667
+  Wermetrin: *668
+  w'Rax: *669
+  Watcmfir III: *670
+  Werglooo: *671
+  Wersernaan: *672
+  Watdan VII: *13
+  w'Gess: *673
+  Watarb Galuk: *674
+  Watbaksui Zocnub: *675
+  Wertel Lorglo: *676
+  Wervar Arbguitel: *677
+  Zelangli: *678
+  Zelith Rishasnalnat: *679
+  Zuncm Antnal: *680
+  Zunban: *681
+  Zunvar Jonas: *682
+  Zela III: *14
+  Zocyintan An-Cor: *683
+  z'Ad: *684
+  Zunmyrsern XI: *685
+  Zunea XV: *686
+  Zunal: *687
+  Zunlia: *688
+  Zunjum Firyin Hiline: *689
+  Zela: *690
+  Zeldag Nikjon: *691
+  Zelhon Comgam: *692
+  Zelwat X: *693
+  Honhanphinwat: *694
+  Hancomyinlus IV: *695
+  Honnabryl Corbonkom: *696
+  Honseltalrish: *697
+  Hilgam XIII: *698
+  Honcer Jakmyr: *699
+  Honfir: *700
+  Hanas: *701
+  Honrur Kesaan: *702
+  Hondur Rishmet: *703
+  Hilar: *704
+  Honi Ithjonlid: *705
+  Honsav Erjak: *706
+  Hilnalron: *707
+  Hil-Goh VI: *708
+  Honlan: *709
+  Hilas Buran: *710
+  Hilmet V: *15
+  Honnub: *711
+  Hilarbris X: *712
+  Hanron VII: *713
+  Hontlo: *714
+  Hangal VII: *715
+  Lidkom: *716
+  Lidum: *717
+  Lesdar VII: *718
+  Luser: *719
+  Lan'Top XII: *720
+  Lesu: *721
+  Lidwer: *722
+  Lesjakir: *723
+  Lid-Nagbel: *724
+  Lusnagjon Nabzoc: *725
+  Lusdagmel: *726
+  Lus-Met: *727
+  Lesal: *728
+  Lidea III: *729
+  Lorhan: *730
+  Leszocbar-Ond: *731
+  Lesu Banend: *732
+  Lornik Phinnatdar: *733
+  Lan-Dag Besam: *734
+  Lidas Jakjak: *735
+  Lorsuibil VI: *736
+  Lesnubphin: *737
+  Liduk XIV: *738
+  Lorbilhon: *739
+  Lankal: *740
+  Lustrosum Guigui: *741
+  Lan-Kar XI: *16
+  Leskur Guiam Sui'Bon: *742
+  Lanmyr Honith: *743
+  Lidnub VII: *744
+  Lorondbril: *745
+  Lesaan: *746
+  Lusjak III: *747
+  Lusmel XI: *748
+  Langan: *749
+  Lesan XV: *750
+  Lessern VII: *751
+  Lusgui Itharbris: *752
+  Lidhan: *753
+  Lorrishtis: *754
+  Lanbar: *755
+  Val-Nab XII: *756
+  Varris: *757
+  Valbel Ronamzoc: *758
+  Vartanior: *759
+  Vartantlo Arbsav: *760
+  Valarbnat Endas: *761
+  Valnat: *762
+  Varas V: *763
+  Varrif Albon: *764
+  Valar II: *765
+  Varhan: *17
+  Varlesjum: *766
+  Valkurcom Rin-Zoc: *767
+  Valdan Gangli: *768
+  Varniksenoo II: *769
+  Valbur II: *770
+  Valgui: *771
+  Valea: *772
+  Ithu II: *773
+  Isgam VI: *774
+  Isdanjon: *775
+  Ithcom: *776
+  Isbur XII: *777
+  Iscerval Darkom: *778
+  Ithsav Cm-Cm: *779
+  Ithaszoc: *780
+  Isior Metkom: *781
+  Ismimmel: *782
+  Isal: *18
+  Ithtis III: *783
+  Ithbar II: *784
+  Islesoo Ron-Yn: *785
+  Isrifhan: *786
+  Issumoth: *787
+  Itherzel Nabcomsum: *788
+  Ithtros Rifas: *789
+  Iscomalad: *790
+  Ithtop Comarblor: *791
+  Isam: *792
+  Ithbanan: *793
+  Ithooine Ryl Ryltel: *794
+  Ithtloam Fedbur: *795
+  Reryinum VI: *796
+  Rur'Om Zoczun: *797
+  Ronine Jumrismyr: *798
+  Rutar Lorend: *799
+  Ron-Naljak Cronbil: *800
+  Riskes: *801
+  Rylcor Lanjum: *802
+  Ryldan: *803
+  Raxen: *804
+  Rifnag: *805
+  Rurdurval: *806
+  Rishzun VII: *807
+  Rintan II: *808
+  Rylmyrhon Rutcerom: *809
+  Ryllesom: *810
+  Risrutrur Suikal: *811
+  Rif'Mim Asbes: *812
+  Rur-Bak XV: *813
+  Rermyrris Komaan: *814
+  Ruryi: *815
+  Rutganalmbin: *816
+  Risdanguikar: *817
+  Raxjon: *818
+  Rut-Ior Rishir: *819
+  Raxkur: *820
+  Rinfed Gohea: *821
+  Raxphinburbur: *822
+  Ryl-Lia: *823
+  Rax-Luskalarb Arbtis: *824
+  Rurarc X: *825
+  Ris-Er Ithantbak: *826
+  Risquelbar Sav-Kurgoh: *827
+  Raxu Nag-Tis: *828
+  Rin-Oo II: *829
+  Rutsel: *830
+  Rylooine: *831
+  Rurkom: *832
+  Rurondringamia: *833
+  Rutalm VII: *834
+  Risfir: *835
+  Rishmimyin: *836
+  Rut-Dur: *837
+  Raxtlo Gangli: *838
+  Rersernkar: *839
+  Rifkom: *840
+  Ruttlo XII: *841
+  Rylrif Islusia: *842
+  Rifsum VII: *843
+  Raxendwer: *844
+  Raxcmdur X: *845
+  Rylbaknik: *846
+  Rur'Karn: *847
+  Rona: *848
+  Rerdag Mimtros: *849
+  Rurallan: *850
+  Rerlia Belondwer: *851
+  Rinior: *852
+  Rifas V: *853
+  Ronas: *854
+  Rinpin'Gan: *855
+  Rylis: *856
+  Rut-Gal Lornatmyrjum: *857
+  Rylnatend: *858
+  Rishdar II: *19
+  Rurglo Yinsum: *859
+  Rurbril X: *860
+  Risin IX: *861
+  Rylasbil: *862
+  Rylhonmyrdagam: *863
+  Rinkur: *864
+  Rurgess III: *865
+  Rifrifas Komnubarb: *866
+  Rontlo: *867
+  Ruryn: *868
+  Savsum: *869
+  Suicron X: *870
+  Sel-Ir: *871
+  Suikuramnag: *872
+  Sencer Antris: *873
+  Sumtoprish Hilgess: *874
+  Sumbin: *875
+  Savjum Honmyr: *876
+  Sumtangamnab XII: *877
+  Seni: *878
+  Sernnab Nagdag: *879
+  Senzoc: *880
+  Sernrurkar Isnagbin: *881
+  Sernad Lusbur: *882
+  Sumwat Sernbankarvar: *883
+  Selith: *884
+  Selquel: *885
+  Sel'Rut: *886
+  Savglo: *887
+  Senbon: *888
+  Senringess: *889
+  Sel'Is X: *890
+  Senpin XIII: *891
+  Selyi Ondfir: *892
+  Sav-Umcomgess: *893
+  Serngan: *894
+  Sernyinwer: *895
+  Sumom: *896
+  Sel'Cerkur XII: *897
+  Savlan: *898
+  Sumraxas: *899
+  Seni Cerlia: *20
+  Sumalmfedbakris: *900
+  Selnag: *901
+  Sernsern Karrut: *902
+  Sern'Cm IV: *903
+  Senam: *904
+  Suiis: *905
+  Selarbgan: *906
+  Sumgessgli XI: *907
+  Selas: *908
+  Sav-Mim Corglihan: *909
+  Sumjum: *910
+  Sumtop III: *911
+  Sumnag Tel z'Lus: *912
+  Savrer Besas: *913
+  Sernbel: *914
+  Savlan Nubuk: *915
+  Senraxgli: *916
+  Umastan XIII: *917
+  Umnal X: *21
+  Umar X: *918
+  Um'Dan V: *919
+  Umhancomaan: *920
+  Umrif Durglo Tiskes: *921
+  Umaan Jakarc: *922
+  Umarcfed: *923
+  Umu Ith'Nabsen: *924
+  Umkarnrifaan: *925
+  Enasris: *926
+  Erkaris: *927
+  Enban: *928
+  Enlia Gam-Ir: *929
+  Enddur Gohniken: *930
+  Endglihon: *931
+  Enendcron: *932
+  Endnikfirbancor: *933
+  Er-Is Beskur: *934
+  Enyi: *935
+  Enderjonas: *936
+  Endar: *22
+  Ennik Rishgoh: *937
+  Endnagwat: *938
+  Ercorbon: *939
+  Erphin: *940
+  Ermim Dartis: *941
+  Enddaguk: *942
+  Enarb: *943
+  Enia XV: *944
+  Endu: *945
+  Enbin-As Eris: *946
+  Enom Binnal Valsern: *947
+  Endalm Quelyn: *948
+  Erzelvar: *949
+  Jumjakis XII: *950
+  Jondur: *951
+  Jakior c'Gamlid: *952
+  Jakis: *953
+  Jakkes: *954
+  Jumdagoth: *23
+  Jakalgoh: *955
+  Jonis IX: *956
+  Jumzun Komtel Arb'Er: *957
+  Jumban XIV: *958
+  Jaktis: *959
+  Jumlid: *960
+  Jum-Yi: *961
+  Jontal II: *962
+  Jumdag t'Alm: *963
+  Jaksavarc: *964
+  Jumlesu: *965
+  Jaknab XII: *966
+  Jakasgliaan: *967
+  Fedam: *968
+  Firnat VII: *969
+  Firmim Istros: *970
+  Fedanom X: *971
+  Firbak: *24
+  Firjonfedtlo: *972
+  Fir-Pin: *973
+  Firdanooine: *974
+  Firkarn Durron-Jak: *975
+  Firfednag: *976
+  Fedom: *977
+  Fedsel Rurzelbin: *978
+  Firlorzel VI: *979
+  Fedgal: *980
+  Fedfedtanbil: *981
+  Yinmyr Naboo: *982
+  Yinglogui Nublor: *983
+  Yinenan: *984
+  Yinbin X: *25
+  Yinsavgli: *985
+  Yinbar Lidtros-Ith: *986

@@ -1,0 +1,356 @@
+--- !ruby/object:Astro::Map
+stars:
+- &1 !ruby/object:Astro::Star
+  name: Alino
+  star_type: F
+  position: !ruby/object:Astro::Position
+    x: 145.47
+    y: 722.5
+    z: 34.5
+  stellar_temp: 7
+  stellar_mass: 1.1
+  stellar_luminosity: V
+  id: 1
+- &3 !ruby/object:Astro::Star
+  name: Bonga Ishon
+  star_type: F
+  position: !ruby/object:Astro::Position
+    x: 193.96
+    y: 620.5
+    z: -28.0
+  stellar_temp: 1
+  stellar_mass: 1.38
+  stellar_luminosity: V
+  id: 2
+- &2 !ruby/object:Astro::Star
+  name: Cerkaltop
+  star_type: K
+  position: !ruby/object:Astro::Position
+    x: 239.85
+    y: 702
+    z: 21.0
+  stellar_temp: 0
+  stellar_mass: 0.76
+  stellar_luminosity: V
+  id: 3
+- &5 !ruby/object:Astro::Star
+  name: Danfed
+  star_type: K
+  position: !ruby/object:Astro::Position
+    x: 427.75
+    y: 748.5
+    z: 12.5
+  stellar_temp: 6
+  stellar_mass: 0.49
+  stellar_luminosity: VI
+  id: 4
+- &7 !ruby/object:Astro::Star
+  name: Gan-Tis
+  star_type: M
+  position: !ruby/object:Astro::Position
+    x: 619.11
+    y: 673.5
+    z: 44.5
+  stellar_temp: 0
+  stellar_mass: 0.28
+  stellar_luminosity: V
+  id: 7
+- !ruby/object:Astro::Star
+  name: Kurith
+  star_type: K
+  position: !ruby/object:Astro::Position
+    x: 822.59
+    y: 575.0
+    z: 16.0
+  stellar_temp: 1
+  stellar_mass: 0.5
+  stellar_luminosity: V
+  id: 11
+- &17 !ruby/object:Astro::Star
+  name: Metdan
+  star_type: F
+  position: !ruby/object:Astro::Position
+    x: 867.62
+    y: 394.5
+    z: 40.0
+  stellar_temp: 3
+  stellar_mass: 1.17
+  stellar_luminosity: V
+  id: 13
+- !ruby/object:Astro::Star
+  name: Nabhan
+  star_type: G
+  position: !ruby/object:Astro::Position
+    x: 764.48
+    y: 323.0
+    z: -41.5
+  stellar_temp: 0
+  stellar_mass: 0.97
+  stellar_luminosity: VI
+  id: 14
+- &18 !ruby/object:Astro::Star
+  name: Omzun
+  star_type: B
+  position: !ruby/object:Astro::Position
+    x: 824.33
+    y: 231.5
+    z: 32.5
+  stellar_temp: 2
+  stellar_mass: 3.62
+  stellar_luminosity: VI
+  id: 15
+- !ruby/object:Astro::Star
+  name: PhinjumCom
+  star_type: F
+  position: !ruby/object:Astro::Position
+    x: 672.79
+    y: 255
+    z: -13.0
+  stellar_temp: 2
+  stellar_mass: 1.26
+  stellar_luminosity: V
+  id: 16
+- &10 !ruby/object:Astro::Star
+  name: Quelyn
+  star_type: F
+  position: !ruby/object:Astro::Position
+    x: 450.26
+    y: 295.5
+    z: 19
+  stellar_temp: 5
+  stellar_mass: 1.22
+  stellar_luminosity: V
+  id: 17
+- &11 !ruby/object:Astro::Star
+  name: Topar
+  star_type: G
+  position: !ruby/object:Astro::Position
+    x: 167.98
+    y: 128.5
+    z: -26.0
+  stellar_temp: 3
+  stellar_mass: 0.93
+  stellar_luminosity: V
+  id: 20
+- &14 !ruby/object:Astro::Star
+  name: Watdan
+  star_type: O
+  position: !ruby/object:Astro::Position
+    x: 131.62
+    y: 358.0
+    z: -15.0
+  stellar_temp: 4
+  stellar_mass: 21.68
+  stellar_luminosity: V
+  id: 23
+- &15 !ruby/object:Astro::Star
+  name: Zela
+  star_type: B
+  position: !ruby/object:Astro::Position
+    x: 142.01
+    y: 510.0
+    z: -16
+  stellar_temp: 3
+  stellar_mass: 2.61
+  stellar_luminosity: V
+  id: 26
+- &8 !ruby/object:Astro::Star
+  name: Hilmet
+  star_type: B
+  position: !ruby/object:Astro::Position
+    x: 716.09
+    y: 709.5
+    z: 58.0
+  stellar_temp: 9
+  stellar_mass: 12.39
+  stellar_luminosity: V
+  id: 8
+- &16 !ruby/object:Astro::Star
+  name: Lan-Kar
+  star_type: M
+  position: !ruby/object:Astro::Position
+    x: 911.78
+    y: 475.0
+    z: 44.0
+  stellar_temp: 1
+  stellar_mass: 0.34
+  stellar_luminosity: VI
+  id: 12
+- &13 !ruby/object:Astro::Star
+  name: Varhan
+  star_type: K
+  position: !ruby/object:Astro::Position
+    x: 64.08
+    y: 179.0
+    z: 57.0
+  stellar_temp: 3
+  stellar_mass: 0.77
+  stellar_luminosity: IV
+  id: 22
+- !ruby/object:Astro::Star
+  name: Isal
+  star_type: K
+  position: !ruby/object:Astro::Position
+    x: 897.06
+    y: 693.0
+    z: -24.5
+  stellar_temp: 0
+  stellar_mass: 0.75
+  stellar_luminosity: V
+  id: 9
+- &9 !ruby/object:Astro::Star
+  name: Rishdar
+  star_type: K
+  position: !ruby/object:Astro::Position
+    x: 406.97
+    y: 242.5
+    z: 94.0
+  stellar_temp: 0
+  stellar_mass: 0.71
+  stellar_luminosity: V
+  id: 18
+- !ruby/object:Astro::Star
+  name: Seni Cerlia
+  star_type: F
+  position: !ruby/object:Astro::Position
+    x: 239.85
+    y: 212.5
+    z: 23.5
+  stellar_temp: 3
+  stellar_mass: 1.28
+  stellar_luminosity: IV
+  id: 19
+- &12 !ruby/object:Astro::Star
+  name: Umnal
+  star_type: G
+  position: !ruby/object:Astro::Position
+    x: 134.21
+    y: 248.5
+    z: 10.5
+  stellar_temp: 4
+  stellar_mass: 1.34
+  stellar_luminosity: V
+  id: 21
+- &4 !ruby/object:Astro::Star
+  name: Endar
+  star_type: A
+  position: !ruby/object:Astro::Position
+    x: 466.71
+    y: 726.5
+    z: 58.0
+  stellar_temp: 4
+  stellar_mass: 1.69
+  stellar_luminosity: V
+  id: 5
+- !ruby/object:Astro::Star
+  name: Jumdagoth
+  star_type: B
+  position: !ruby/object:Astro::Position
+    x: 709.16
+    y: 540.0
+    z: -24.5
+  stellar_temp: 9
+  stellar_mass: 9.12
+  stellar_luminosity: V
+  id: 10
+- &6 !ruby/object:Astro::Star
+  name: Firbak
+  star_type: K
+  position: !ruby/object:Astro::Position
+    x: 562.83
+    y: 694
+    z: -50.6
+  stellar_temp: 2
+  stellar_mass: 0.6
+  stellar_luminosity: VI
+  id: 6
+- !ruby/object:Astro::Star
+  name: Yinbin
+  star_type: F
+  position: !ruby/object:Astro::Position
+    x: 39.83
+    y: 477.0
+    z: 37.5
+  stellar_temp: 2
+  stellar_mass: 1.09
+  stellar_luminosity: V
+  id: 25
+routes:
+- !ruby/object:Astro::Route
+  members:
+  - *1
+  - *2
+  raw_factor: 15
+- !ruby/object:Astro::Route
+  members:
+  - *1
+  - *3
+  raw_factor: 15
+- !ruby/object:Astro::Route
+  members:
+  - *4
+  - *5
+  raw_factor: 15
+- !ruby/object:Astro::Route
+  members:
+  - *4
+  - *6
+  raw_factor: 15
+- !ruby/object:Astro::Route
+  members:
+  - *7
+  - *8
+  raw_factor: 15
+- !ruby/object:Astro::Route
+  members:
+  - *9
+  - *10
+  raw_factor: 15
+- !ruby/object:Astro::Route
+  members:
+  - *11
+  - *12
+  raw_factor: 15
+- !ruby/object:Astro::Route
+  members:
+  - *11
+  - *13
+  raw_factor: 15
+- !ruby/object:Astro::Route
+  members:
+  - *12
+  - *13
+  raw_factor: 15
+- !ruby/object:Astro::Route
+  members:
+  - *12
+  - *14
+  raw_factor: 15
+- !ruby/object:Astro::Route
+  members:
+  - *1
+  - *4
+  - *8
+  raw_factor: 7
+- !ruby/object:Astro::Route
+  members:
+  - *2
+  - *15
+  - *14
+  raw_factor: 7
+- !ruby/object:Astro::Route
+  members:
+  - *12
+  - *9
+  raw_factor: 7
+- !ruby/object:Astro::Route
+  members:
+  - *7
+  - *16
+  raw_factor: 7
+- !ruby/object:Astro::Route
+  members:
+  - *16
+  - *17
+  - *18
+  raw_factor: 7

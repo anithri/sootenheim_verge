@@ -1,0 +1,43 @@
+Star,1,Alino,-7.0906,4.450000000000001,1.3800000000000001,1.1,0,0,F7V,,
+Star,2,Bonga Ishon,-6.120799999999999,2.41,-1.12,1.38,0,0,F1V,,
+Star,3,Cerkaltop,-5.203,4.040000000000001,0.84,0.76,0,0,K0V,,
+Star,4,Danfed,-1.4450000000000003,4.970000000000001,0.5,0.49,0,0,K6VI,,
+Star,5,Endar,-0.6658000000000008,4.530000000000001,2.32,1.69,0,0,A4V,,
+Star,6,Firbak,1.2566000000000006,3.880000000000001,-2.024,0.6,0,0,K2VI,,
+Star,7,Gan-Tis,2.382200000000001,3.4700000000000006,1.78,0.28,0,0,M0V,,
+Star,8,Hilmet,4.321800000000001,4.1899999999999995,2.32,12.39,0,0,B9V,,
+Star,9,Isal,7.9411999999999985,3.8599999999999994,-0.98,0.75,0,0,K0V,,
+Star,10,Jumdagoth,4.183199999999999,0.8000000000000007,-0.98,9.12,0,0,B9V,,
+Star,11,Kurith,6.451800000000002,1.5,0.64,0.5,0,0,K1V,,
+Star,12,Lan-Kar,8.235600000000002,-0.5,1.76,0.34,0,0,M1VI,,
+Star,13,Metdan,7.352399999999999,-2.1099999999999994,1.6,1.17,0,0,F3V,,
+Star,14,Nabhan,5.2896,-3.54,-1.6600000000000001,0.97,0,0,G0VI,,
+Star,15,Omzun,6.486600000000003,-5.37,1.3,3.62,0,0,B2VI,,
+Star,16,PhinjumCom,3.4558,-4.8999999999999995,-0.52,1.26,0,0,F2V,,
+Star,17,Quelyn,-0.9947999999999997,-4.09,0.76,1.22,0,0,F5V,,
+Star,18,Rishdar,-1.8605999999999998,-5.1499999999999995,3.7600000000000002,0.71,0,0,K0V,,
+Star,19,Seni Cerlia,-5.203,-5.75,0.9400000000000001,1.28,0,0,F3IV,,
+Star,20,Topar,-6.6404,-7.43,-1.04,0.93,0,0,G3V,,
+Star,21,Umnal,-7.315799999999999,-5.03,0.42,1.34,0,0,G4V,,
+Star,22,Varhan,-8.718399999999999,-6.42,2.2800000000000002,0.77,0,0,K3IV,,
+Star,23,Watdan,-7.3675999999999995,-2.84,-0.6,21.68,0,0,O4V,,
+Star,25,Yinbin,-9.2034,-0.4599999999999991,1.5,1.09,0,0,F2V,,
+Star,26,Zela,-7.159800000000001,0.20000000000000107,-0.64,2.61,0,0,B3V,,
+Route,Alino,Cerkaltop,Hyperjump,Route 15B,#00FF00,1,3
+Route,Alino,Bonga Ishon,Hyperjump,Route 15C,#00FF00,1,3
+Route,Endar,Danfed,Hyperjump,Route 15D,#00FF00,1,3
+Route,Endar,Firbak,Hyperjump,Route 15E,#00FF00,1,3
+Route,Gan-Tis,Hilmet,Hyperjump,Route 15F,#00FF00,1,3
+Route,Rishdar,Quelyn,Hyperjump,Route 15G,#00FF00,1,3
+Route,Topar,Umnal,Hyperjump,Route 15H,#00FF00,1,3
+Route,Topar,Varhan,Hyperjump,Route 15I,#00FF00,1,3
+Route,Umnal,Varhan,Hyperjump,Route 15J,#00FF00,1,3
+Route,Umnal,Watdan,Hyperjump,Route 15K,#00FF00,1,3
+Route,Alino,Endar,Hyperjump,Route 7L,#0000FF,0,6
+Route,Endar,Hilmet,Hyperjump,Route 7L,#0000FF,0,6
+Route,Cerkaltop,Zela,Hyperjump,Route 7M,#0000FF,0,6
+Route,Zela,Watdan,Hyperjump,Route 7M,#0000FF,0,6
+Route,Umnal,Rishdar,Hyperjump,Route 7N,#0000FF,0,6
+Route,Gan-Tis,Lan-Kar,Hyperjump,Route 7O,#0000FF,0,6
+Route,Lan-Kar,Metdan,Hyperjump,Route 7P,#0000FF,0,6
+Route,Metdan,Omzun,Hyperjump,Route 7P,#0000FF,0,6
