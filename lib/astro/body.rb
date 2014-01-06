@@ -15,12 +15,20 @@ module Astro
       end.inject(:+))
     end
 
+    def == (val)
+      name == val.name
+    end
+
     def routes
       @routes ||= {}
     end
 
     def add_route(to, route)
       routes[to] = route
+    end
+
+    def initial
+      name[0].upcase
     end
 
     def find_connection(destination)
